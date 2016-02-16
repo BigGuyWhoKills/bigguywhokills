@@ -1,0 +1,43 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+	<link rel="stylesheet" type="text/css" href="index.css" title="Default">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="Author" content="Adam J. Howell">
+	<meta name="GENERATOR" content="EditPad Pro 7">
+	<title>Adam Howell Final Project</title>
+</head>
+<body>
+	<h1>Adam's CS 2550 Final Project</h1>
+	Documentation can be read <a href="documentation.html">here</a>.
+
+	<br>
+	<fieldset>
+		Username: <input type="text" id="usernameInput" value="Luke"><br>
+		Password: <input type="password" id="userPassInput" value="usetheforce"><br>
+		<input type="button" value="Log in" id="logIn" onclick="validateUser()">
+	</fieldset>
+
+	<div id="usernameDebug">
+		<br>
+	</div>
+	<div id="localStorageDebug">
+		<br>
+	</div>
+
+	<hr>
+
+	<h2>Software Design:</h2>
+	This project is an expense tracker. &nbsp;It will offer a way to enter budget categories, expense items, and edit the content of the resultant cells in a table.<br>
+	It will perform simple math on the budgeted category amount, adding in the expenditures, and displaying the net over-budget or under-budget amount.<br>
+	<br>
+	<a href="expenses.html" target="_blank">Here is my expense tracker</a>.  This link should open in a new tab or window.<br>
+	<br>
+	<a href="http://www.adamjhowell.com/javascript/FinalProject/">A live version of this page may be found here</a>.
+
+	<script src="index.js"></script>
+	<script src="storage.js"></script>
+
+</body>
+</html>

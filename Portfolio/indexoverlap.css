@@ -1,0 +1,124 @@
+/*This is a test css file for my website's front page*/
+body
+{
+	background: black url(back03.jpg) no-repeat center center fixed;
+	color: #cccccc;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	font-style: normal;
+	text-align: left;
+	text-decoration: none;
+	text-transform: none;
+}
+
+h1
+{
+	font-size: 24pt;
+	background-color: transparent;
+	color: #cccccc;
+	text-align: center;
+/*	border-style: dashed;*/
+}
+
+h2
+{
+	background-color: transparent;
+	color: #cccccc;
+	text-align: center;
+	line-height: 0.2em;
+}
+
+p
+{
+	font-size:11pt;
+/*	margin-left: 15px*/
+}
+
+.normal
+{
+	font-size:1.0em;
+	line-height: 1.2em;
+}
+
+.normalbold
+{
+	font-size:1.0em;
+	font-weight: bold;
+	line-height: 1.1em;
+}
+
+.cnormal
+{
+	font-size:1.0em;
+	text-align: center;
+	line-height: 1.0em;
+}
+
+.normalplus3bold
+{
+	font-size:2.5em;
+	font-weight: bold;
+	line-height: 1.0em;
+}
+
+.normalplus2
+{
+	font-size:1.5em;
+	font-weight: normal;
+	line-height: 0.7em;
+}
+
+.cnormalplus2
+{
+	font-size:1.5em;
+	font-weight: normal;
+	line-height: 0.01em;
+	text-align: center;
+}
+
+.slesser
+{
+	font-size:0.7em;
+}
+
+.cslesser
+{
+	font-size:0.7em;
+	text-align: center;
+}
+
+.mlesser
+{
+	font-size:0.85em;
+}
+
+.cmlesser
+{
+	font-size:0.85em;
+	text-align: center;
+	line-height: 0.3em;
+}
+
+a:link
+{
+	background-color: transparent;
+	color: #888888;
+}
+
+a:visited
+{
+	background-color: transparent;
+	color: #c0c0c0;
+}
+
+a:hover
+{
+	background-color: transparent;
+	color: #ff0000;
+}
+
+a:active
+{
+	background-color: transparent;
+	color: #ff0000;
+}

@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <meta name="author" content="Adam J. Howell">
+  <meta name="description" content="Adam has got to be the coolest guy on earth.">
+  <meta name="keywords" content="Raven Shield, Star Wars Galaxies, Rush, music, snowboard, wakeboard">
+  <meta name="authoring.tool" content="Adam's hands and Editpad">
+  <meta name="distribution" content="global">
+  <meta name="resource-type" content="document">
+<title>NET Time</title>
+</head>
+
+<body text="#cccccc" bgproperties="fixed" bgcolor="#000000" link="#33cc00" vlink="#c0c0c0" alink="#ff0000">
+
+<div align="center">
+ <font face="Verdana, Arial, Helvetica, Sans Serif" size="1">
+  <span id="net_clock"> 
+  <noscript><a href="http://newearthtime.net"  target="_new">New Earth Time</a></noscript>
+  <script language="JavaScript">
+  <!--
+  // Copyright 2003 Degree NET Limited //
+  function Is () { 
+	var agt=navigator.userAgent.toLowerCase();
+	this.nav5up = (agt.indexOf('mozilla')!=-1 && agt.indexOf('msie') == -1 && agt.indexOf('opera')==-1 && parseInt(navigator.appVersion) >= 5);
+	this.ie4up = (agt.indexOf('msie')!=-1 && agt.indexOf('opera')==-1 && parseInt(navigator.appVersion) >= 4);
+	this.opera5up = (agt.indexOf('opera')!=-1 && agt.indexOf('opera 2')==-1 && agt.indexOf('opera 3')==-1 && agt.indexOf('opera 4')==-1 && agt.indexOf('opera/2')==-1 && agt.indexOf('opera/3')==-1 && agt.indexOf('opera/4')==-1);
+  }
+  var is = new Is();
+  function showtimeT() {
+   var monthArray = new Array("Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec");
+   var now = new Date();
+   var tzo = now.getTimezoneOffset();
+   var nowUTC = new Date(now.getTime()+(tzo*60*1000));
+   var ndeg = (nowUTC.getHours() * 60 / 4) + Math.floor(nowUTC.getMinutes()/4);
+   var ndegStr = new String(ndeg<10?"00"+ndeg:ndeg<100?"0"+ndeg:ndeg);
+   var nmin = ((nowUTC.getMinutes() % 4) * 60 / 4) + Math.floor(nowUTC.getSeconds() / 4);
+   var nminStr = new String(nmin<10?"0"+nmin:nmin);
+   var nsec = ((nowUTC.getSeconds() / 4) - Math.floor(nowUTC.getSeconds()/4)) / 25 * 1500;
+   var nsecStr = new String(nsec<10?"0"+nsec:nsec);
+   var nday = nowUTC.getDate();
+   var ndayStr = new String(nday<10?"0"+nday:nday);
+   var nmonStr = new String(monthArray[nowUTC.getMonth()]);
+   var nyea = nowUTC.getYear();
+   if (nyea < 1000) nyea+=1900;
+   var netStr = '<a  style="text-decoration:none" href="http://newearthtime.net" target="_new">' + ndegStr + '&deg; ' + nminStr + '&#039; NET' + '<br>' + ndayStr + '-' + nmonStr + '-' + nyea + '</a>';
+   if (document.all)
+     document.all.net_clock.innerHTML=netStr;
+   else if (document.getElementById)
+     document.getElementById("net_clock").innerHTML=netStr;
+   else
+     document.write(netStr); 
+  }
+  if (is.nav5up || is.ie4up || is.opera5up) {
+   if (!document.all&&!document.getElementById)
+    showtimeT();
+   else
+     setInterval("showtimeT()",1000); 
+  }
+  else document.write('<a  style="text-decoration:none" href="http://newearthtime.net" target="_new">New Earth Time</a>');
+   // -->
+   </script>
+  </span>
+ </font>
+</div>
+</body>
+</html>

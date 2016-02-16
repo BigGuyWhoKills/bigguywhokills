@@ -1,0 +1,90 @@
+-q 6 -a "%a" -t "%t" -l "%g" -d "%y" -N "%n" -G "%m" %s
+
+C:\Audio\ogg Encoder>oggencgt3b1 -h
+OggEnc2.2 (libVorbis 1.0 GT3b1)
+(c) 2000-2003 Michael Smith, John Edwards & Gian-Carlo Pascutto
+
+Usage: oggenc [options] input.wav [...]
+
+OPTIONS:
+ General:
+ -Q, --quiet          Produce no output to stderr
+ -h, --help           Print this help text
+ -r, --raw            Raw mode. Input files are read directly as PCM data
+ -B, --raw-bits=n     Set bits/sample for raw input. Default is 16
+ -C, --raw-chan=n     Set number of channels for raw input. Default is 2
+ -R, --raw-rate=n     Set samples/sec for raw input. Default is 44100
+ --raw-endianness     1 for bigendian, 0 for little (defaults to 0)
+ -b, --bitrate        Choose a nominal bitrate to encode at. Attempt
+                      to encode at a bitrate averaging this. Takes an
+                      argument in kbps. This uses the bitrate management
+                      engine, and is not recommended for most users.
+                      See -q, --quality for a better alternative.
+ -m, --min-bitrate    Specify a minimum bitrate (in kbps). Useful for
+                      encoding for a fixed-size channel.
+ -M, --max-bitrate    Specify a maximum bitrate in kbps. Useful for
+                      streaming applications.
+ -q, --quality        Specify quality between -2 (low) and 10 (high),
+                      instead of specifying a particular bitrate.
+                      This is the normal mode of operation.
+                      Fractional qualities (e.g. 2.75) are permitted
+ --resample n         Resample input data to sampling rate n (Hz)
+ --downmix            Downmix stereo to mono. Only allowed on stereo
+                      input.
+ --rehuff             Do a second 'rehuff' pass on the .ogg file for
+                      improved compression. ****EXPERIMENTAL OPTION.
+ -s, --serial         Specify a serial number for the stream. If encoding
+                      multiple files, this will be incremented for each
+                      stream after the first.
+
+ Naming:
+ -o, --output=fn      Write file to fn (only valid in single-file mode)
+ -n, --names=string   Produce filenames as this string, with %a, %t, %l,
+                      %n, %d replaced by artist, title, album, track number,
+                      and date, respectively (see below for specifying these).
+                      %% gives a literal %.
+ -X, --name-remove=s  Remove the specified characters from parameters to the
+                      -n format string. Useful to ensure legal filenames.
+ -P, --name-replace=s Replace characters removed by --name-remove with the
+                      characters specified. If this string is shorter than the
+                      --name-remove list or is not specified, the extra
+                      characters are just removed.
+                      Default settings for the above two arguments are platform
+                      specific.
+ -c, --comment=c      Add the given string as an extra comment. This may be
+                      used multiple times.
+ -d, --date           Date for track (usually date of performance)
+ -N, --tracknum       Track number for this track
+ -t, --title          Title for this track
+ -l, --album          Name of album
+ -a, --artist         Name of artist
+ -G, --genre          Genre of track
+                      If multiple input files are given, then multiple
+                      instances of the previous five arguments will be used,
+                      in the order they are given. If fewer titles are
+                      specified than files, OggEnc will print a warning, and
+                      reuse the final one for the remaining files. If fewer
+                      track numbers are given, the remaining files will be
+                      unnumbered. For the others, the final tag will be reused
+                      for all others without warning (so you can specify a date
+                      once, for example, and have it used for all the files)
+ -p, --padding n      Number of kilobytes of padding to provide in comment
+                      header for post-encoding tagging. (0 - 4 permitted)
+
+INPUT FILES:
+ OggEnc input files must currently be 16 or 8 bit PCM WAV, AIFF, or AIFF/C
+ files, or 32 bit IEEE floating point WAV. Files may be mono or stereo
+ (or more channels) and any sample rate.
+ With this version, you may also input FLAC, MONKEYS AUDIO, WAVPACK, LAPC,
+ OPTIMFROG and SHORTEN files. You MUST ensure that the appropriate
+ encoder/decoder (i.e., flac.exe, etc) is in the same dir/folder as
+ oggenc, or is in the defined path.
+ Alternatively, the --raw option may be used to use a raw PCM data file, which
+ must be 16bit stereo little-endian PCM ('headerless wav'), unless additional
+ parameters for raw mode are specified.
+ You can specify taking the file from stdin by using - as the input filename.
+ In this mode, output is to stdout unless an output filename is specified
+ with -o
+
+
+C:\Audio\ogg Encoder>

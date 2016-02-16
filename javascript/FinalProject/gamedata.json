@@ -1,0 +1,88 @@
+{
+	"categories":
+	[
+		{
+			"category": "Rent",
+			"budgeted": 1201
+		},
+		{
+			"category": "Car Payment",
+			"budgeted": 300
+		},
+		{
+			"category": "Utilities",
+			"budgeted": 120
+		},
+		{
+			"category": "Groceries",
+			"budgeted": 100
+		}
+	],
+	"expenses":
+	[
+		{
+			"category": "Rent",
+			"description": "Rent for August",
+			"amount": 1200,
+			"date": "2015-08-10",
+			"method": "Credit",
+			"notes": "Houses are expensive"
+		},
+		{
+			"category": "Car Payment",
+			"description": "Car payment for August",
+			"amount": 300,
+			"date": "2015-08-01",
+			"method": "Check",
+			"notes": "We should buy a Tesla"
+		},
+		{
+			"category": "Utilities",
+			"description": "Electricity for August",
+			"amount": 82,
+			"date": "2015-08-03",
+			"method": "Credit",
+			"notes": ""
+		},
+		{
+			"category": "Groceries",
+			"description": "Cereal and bananas",
+			"amount": 10.05,
+			"date": "2015-08-03",
+			"method": "Cash",
+			"notes": ""
+		},
+		{
+			"category": "Utilities",
+			"description": "Gas for August",
+			"amount": 50,
+			"date": "2015-08-01",
+			"method": "Cash",
+			"notes": ""
+		},
+		{
+			"category": "Groceries",
+			"description": "Milk and eggs",
+			"amount": 9.75,
+			"date": "2015-08-02",
+			"method": "Credit",
+			"notes": "Moooooo!"
+		},
+		{
+			"category": "Groceries",
+			"description": "Steak, chicken, and hamburger",
+			"amount": 30,
+			"date": "2015-08-04",
+			"method": "Check",
+			"notes": ""
+		},
+		{
+			"category": "Groceries",
+			"description": "Monster energy drinks",
+			"amount": 30,
+			"date": "2015-08-11",
+			"method": "Cash",
+			"notes": "Thirsty!"
+		}
+	]
+}

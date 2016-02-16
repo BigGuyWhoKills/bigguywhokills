@@ -1,0 +1,688 @@
+Category,CDDB_ID,CDplayerID,Artist,Title,NbrOfTracks,TotalSeconds,Revision,SubmittedVia,PlayList,Notes,ReleaseDate,Genre
+blues,b90be00d,,Aerosmith,Honkin' On Bobo,13,3042,0,ExactAudioCopy v0.95a4,"0,1,2,3,4,5,6,7,8,9,10,11",,2004,Blues
+blues,a20ef90b,133D377,Albert King With Stevie Ray Vaughan,In Session,11,3835,5,CDmax 1.7.5,"0,1,2,3,4,5,6,7,8,9,10",,,Blues
+blues,f9108710,1F4BB02,B.B. King,Greatest Hits,16,4233,2,CDmax 1.7.5,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15",,1998,Blues
+blues,9e0e600c,1464DC4,B.B. King & Eric Clapton,Riding With The King,12,3682,7,CDmax 1.7.6,"0,1,2,3,4,5,6,7,8,9,10,11",,2000,Blues
+blues,770bb10a,D7D813,Boz Scaggs,Some Change,10,2995,1,DiscPlay 4.0.4,"0,1,2,3,4,5,6,7,8,9",,1994,Blues
+blues,760d5e0a,E2DD42,"BR, JV, BB, BG, EC, RC, DrJ, AN",A Tribute To Stevie Ray Vaughan,10,3424,3,MusicMatchJukebox 5.10.0085,"0,1,2,3,4,5,6,7,8,9",,,Blues
+blues,c611dd0e,1F98D82,Buddy Guy,Buddy's Baddest: The Best Of Buddy Guy,14,4575,4,MusicMatchJukebox 4.35.0022,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,1999,Blues
+blues,8f0a2a0b,E69855,Double Trouble,Been A Long Time,11,2604,2,CDmax 1.8,"0,1,2,3,4,5,6,7,8,9,10",,2001,Blues
+blues,af0ba20e,,Eric Clapton,Me And Mr Johnson,14,2980,1,ExactAudioCopy v0.95a4,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",by picca_one,2004,Blues
+blues,df11bc0e,203DFAE,Eric Clapton,Pilgrim,14,4542,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,1998,Blues
+blues,c00f000e,18FA0B1,Eric Clapton,Reptile,14,3842,4,AudioConverter v4.0,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,2001,Blues
+blues,850a880b,E11C72,Eric Clapton,Time Pieces - The Best Of Eric Clapton,11,2698,22,CDmax 1.8,"0,1,2,3,4,5,6,7,8,9,10",,1982,Blues
+blues,cb0e7b0e,17747DC,Eric Clapton,Unplugged,14,3709,7,OrangeCD 4.1,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,1992,Blues
+blues,a409df0b,,Kenny Wayne Shepherd,The Place You're In,11,2529,2,ExactAudioCopy v0.95a5,"0,1,2,3,4,5,6,7,8,9,10",,2004,Rock
+blues,bb0e4c0c,1565B73,Kenny Wayne Shepherd Band,Ledbetter Heights,12,3662,7,MusicMatchJukebox 4.30.0058,"0,1,2,3,4,5,6,7,8,9,10,11",,1995,Blues
+blues,c30ce80e,161BB02,Kenny Wayne Shepherd Band,Live On,14,3306,8,MusicMatchJukebox 5.10.0149,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,1999,Blues
+blues,920d420c,136BCA8,Kenny Wayne Shepherd Band,Trouble Is ...,12,3396,26,MusicMatchJukebox 5.10.0149,"0,1,2,3,4,5,6,7,8,9,10,11",,,Blues
+blues,9f0c620c,12D8A5E,Robert Cray,Shoulda Been Home,12,3172,3,EZCDDA 0.1,"0,1,2,3,4,5,6,7,8,9,10,11",,2001,Blues
+blues,6c10820a,11426F9,Stevie Ray Vaughan And Double Trouble,Blues At Sunrise,10,4228,1,DiscPlay 4.0.4,"0,1,2,3,4,5,6,7,8,9",,,Blues
+blues,990ce30d,1587F0E,Stevie Ray Vaughan And Double Trouble,Couldn't Stand The Weather (Remaster),13,3301,2,QuintessentialCD v1.27,"0,1,2,3,4,5,6,7,8,9,10,11,12",,,Blues
+blues,860b280b,E44AE8,Stevie Ray Vaughan And Double Trouble,Greatest Hits,11,2858,9,MusicMatchJukebox 4.50.0029,"0,1,2,3,4,5,6,7,8,9,10",,1995,Blues
+blues,f010730f,187A634,Stevie Ray Vaughan And Double Trouble,In Step (Remaster),15,4213,1,Axialis_AX_CDPlayer 2.1.001,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14","©1989, 1999 Sony Music Entertainment Inc.",1989,Blues
+blues,88096509,A7E8EB,Stevie Ray Vaughan And Double Trouble,In The Beginning,9,2407,2,xmcd 2.3 PL0,"0,1,2,3,4,5,6,7,8",,,Blues
+blues,d310810d,1969AED,Stevie Ray Vaughan And Double Trouble,Live Alive,13,4227,10,MusicMatchJukebox 5.00.0142,"0,1,2,3,4,5,6,7,8,9,10,11,12",,,Blues
+blues,bd0e6e0e,1625E2D,Stevie Ray Vaughan And Double Trouble,Live At Carnegie Hall,14,3696,13,Axialis_AX_CDPlayer 2.5,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,1997,Blues
+blues,5809e408,8CD3DF,Stevie Ray Vaughan And Double Trouble,Live At Montreux 1982 & 1985 (1982),8,2534,1,CDDB2_Bridge 1.0,"0,1,2,3,4,5,6,7","Disc 1, 1982",,Blues
+blues,9e11dc0b,155056D,Stevie Ray Vaughan And Double Trouble,Live At Montreux 1982 & 1985 (1985),11,4574,1,CDDB2_Bridge 1.0,"0,1,2,3,4,5,6,7,8,9,10","Disc 2, 1985",,Blues
+blues,f1115a10,2157CD2,Stevie Ray Vaughan And Double Trouble,Martin Scorsese Presents The Blues,16,4444,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15",,2003,Blues
+blues,af0d700d,13D5ED0,Stevie Ray Vaughan And Double Trouble,Soul To Soul (Remaster),13,3442,0,VisiTrax 1.5.2.1978,"0,1,2,3,4,5,6,7,8,9,10,11,12",,,Blues
+blues,ea129612,2786DA5,Stevie Ray Vaughan And Double Trouble,SRV Boxed Set - Disc 1,18,4760,1,CDmax 1.7.6,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",,,Blues
+blues,ba11bb0e,1A55DA6,Stevie Ray Vaughan And Double Trouble,SRV Boxed Set - Disc 2,14,4541,1,CDmax 1.7.6,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,,Blues
+blues,1711b911,26295C3,Stevie Ray Vaughan And Double Trouble,SRV Boxed Set - Disc 3,17,4539,3,CDmax 1.7.6,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",,,Blues
+blues,d40dda0f,1874B94,Stevie Ray Vaughan And Double Trouble,Texas Flood (Remaster),15,3548,1,Axialis_AX_CDPlayer 2.1.001,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14",Tracks 11-15 are bonus tracks found only on the remastered version of this album,1983,Blues
+blues,e212a110,1E8EB56,Stevie Ray Vaughan And Double Trouble,The Essential Stevie Ray Vaughan And Double Trouble - Disc 1,16,4771,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15",,2002,Blues
+blues,1121511,26BD13C,Stevie Ray Vaughan And Double Trouble,The Essential Stevie Ray Vaughan And Double Trouble - Disc 2,17,4631,1,CDmax 1.9,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",,2002,Blues
+blues,ee10cf10,20ACE09,Stevie Ray Vaughan And Double Trouble,The Real Deal: Greatest Hits Volume 2,16,4305,5,PowerPlay 1.31b,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15",,1999,Blues
+blues,8309180a,B04422,Stevie Ray Vaughan And Double Trouble,The Sky Is Crying,10,2330,0,,"0,1,2,3,4,5,6,7,8,9",,1991,Blues
+blues,90098f0a,AD5A5C,The Vaughan Brothers,Family Style,10,2449,6,MusicMatchJukebox 5.10.0149,"0,1,2,3,4,5,6,7,8,9",,1990,Blues
+blues,2d121815,32E1FD7,Various Artists,Frett'n The Blues,21,4634,2,CDmax 1.8,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",,2000,Blues
+classical,7e0e5909,12314FC,Alfred Brendel,Alfred Brendel Plays Beethoven,9,3675,0,CDSpectrumPro v3.2.328,"0,1,2,3,4,5,6,7,8",,,Classical
+classical,180e5d14,25FCD88,Antonio Vivaldi,Four Seasons + Sonata Al Santo Sepolcro + Alla Rustica,20,3679,3,EasyCDDAExtractor 5.0.4.1,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19","Antonio Vivaldi (1678-1741)\nThe Four Seasons\n\nThe Four Seasons, Violin Concertos op. 8/1-4\n\nConcerto No. 1 in E major 'Spring'\n1. Allegro\n2. Largo e pianissimo sempre\n3. Allegro (Dabza pastorale)\n\nConcerto No. 2 in G minor 'Summer'\n4. Allegro non molto - Allegro\n5. Adagio - Presto - Adagio\n6. Presto (Tempo impetuoso d'estate)\n\nConcerto No. 3 in F major 'Autumn'\n7. Allegro (Ballo e canto de'villanelli)\n8. Adagio molto (Ubriachi dormenti)\n9. Allegro (La Caccia)\n\nConcerto No. 4 in F minor 'Winter'\n10. Allegro no molto     11. Largo     12. Allegro\n\nSonata 'Al Santo Sepolcro'  RV. 151\n13. Largo molto    14. Allegro ma poco\n\nConcerto 'Alla Rustica'  RV. 130\n15. Presto          16. Adagio          17. Allegro\n\nRainer Kussmaul, violin\nStuttgart Chamber Orchestra\nMartin Sieghart, conductor and harpsichord\n \nConcerto grosso in A minor  Op. 3 No. 8\n18. Allegro     19. Larghetto e spiritoso     20. Allegro\n\nSoloists: Herwig Zach, violin I, Wolfgang Kussmaul, \n  violin II, Reinhard Werner, violoncello, Martin Sieghart, \nStuttgart Chamber Orchestra\nMartin Sieghart, conductor \n\n\ncopyright 1993 Mediaphon, Stuttgart Germany and \nMadacy Music Group Inc. \nP.O. Box 1445, St-Laurent, Quebec, Canada H4L 4Z1\n\npublished as EXL-2-4243 under the label Excelsior",,Classical
+classical,860ece09,DE144D,Beethoven,Ludwig Van Beethoven (1770-1827),9,3792,0,MyCDplayer 5.0.0f,"0,1,2,3,4,5,6,7,8",Piano Sonatas,,Classical
+classical,320f3a04,514D24,Beethoven,Symphony #9,4,3900,3,MusicMatchJukebox 4.40.0133,"0,1,2,3",,,Classical
+classical,980e5a0b,14D4A80,Claude Debussy,Prilude `l'aprhs-mide D'un Faune; Suite Bergamasque; La Mer; Arabesques,11,3676,2,CDmax 1.7.5,"0,1,2,3,4,5,6,7,8,9,10","Symphonic Festival Orch, Peter Schmalfuss, ORF-Symphonic Orch, Jadwga Kotnoswka / Calude Debussy: Prilude ` l'aprhs-mide D'un Faune; Suite Bergamasque;La Mer; Arabesques",,Classical
+classical,320eed04,50419B,Ludwig Van Beethoven,Symphony No. 9,4,3823,0,,"0,1,2,3",,1994,Classical
+classical,25107204,5A495E,"St.  Petersburg FSO, Cond:  Evgeny Vovkushansky",Beethoven 9th Symphony 'Ode To Joy',4,4212,0,CDmax 1.5,"0,1,2,3",,,Classical
+classical,3e10db04,5E4A9F,The Philadelphia Orchestra/The Westminster Choir,Beethoven - Symphony No. 9 in D minor Op. 125,4,4317,1,CDWizzard Release:4.35,"0,1,2,3","Cheryl Studer, soprano\nDelores Ziegler, mezzo-soprano\nPeter Seiffert, tenor\nJames Morris, bass\nThe Westminster Choir\nThe Philadelphia Orchestra\nRiccardo Muti, conductor",,Classical
+classical,910dda0a,1190180,Various Artists,100 Masterpieces Vol. 4: Top 10 Of Classical Music 1788-1810,10,3548,0,TitleTrack v2.0,"0,1,2,3,4,5,6,7,8,9",,,Classical
+country,87086e0a,AD87F5,Brent Mason,Hot Wired,10,2160,0,,"0,1,2,3,4,5,6,7,8,9",Executive Producer:\nKeith Stegall\nProduced By\nJohn Kelton & Brent Mason\n©1997 Mercury Records,1997,Country
+country,e8101113,24A3D4D,Martina McBride,Greatest Hits,19,4115,7,Media_Universe 3.0,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",YEAR: 2001 ID3G: 2,2001,Country
+folk,850e670a,DB2E1A,Damien Rice,O,10,3689,2,audiograbber 1.82.02,"0,1,2,3,4,5,6,7,8,9",,2002,Folk
+folk,9c0a7f0c,E6AE73,Iron & Wine,Our Endless Numbered Days,12,2689,2,inCDius 2.0b9,"0,1,2,3,4,5,6,7,8,9,10,11",ripped by flips,2004,Rock
+folk,9d09740b,B31F1B,John Denver,Greatest Hits,11,2422,1,CDex 1.50Beta5,"0,1,2,3,4,5,6,7,8,9,10",YEAR: 1973,1973,Folk
+folk,d00a620e,12849D4,Simon And Garfunkel,Gretest Hits,14,2660,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,1972,Folk
+folk,21026f03,9455C,The Shins,So Says I (Single),3,625,1,ExactAudioCopy v0.95a4,"0,1,2",YEAR: 2003,2003,Rock
+folk,97087b0b,B62280,Tracy Chapman,Tracy Chapman,11,2173,32,CdAid (MTCDDB.DLL V2003.12.21),"0,1,2,3,4,5,6,7,8,9,10",YEAR: 1988 ID3G:   0,1988,Folk
+jazz,5a0ee614,24C5B59,Charlie Parker,The Jazz Biography,20,3816,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",,2004,Jazz
+jazz,a112551e,46A8FDA,Dean Martin,Dino: The Essential Dean Martin,30,4695,1,ExactAudioCopy v0.95a4,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",,2004,Jazz
+jazz,cc11f40d,1AB4C21,Miles Davis,The Essential - Disc 1,13,4598,8,CDex 1.51,"0,1,2,3,4,5,6,7,8,9,10,11,12",YEAR: 2001,2001,Jazz
+jazz,65112d0a,188CF1B,Miles Davis,The Essential - Disc 2,10,4399,5,CDex 1.51,"0,1,2,3,4,5,6,7,8,9",YEAR: 2001,2001,Jazz
+jazz,b90a950e,11EE1B0,Norah Jones,Come Away With Me,14,2711,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,2002,Jazz
+jazz,bd0b860e,1103255,Norah Jones,Feels Like Home,14,2952,3,CDex 1.40Release,"0,1,2,3,4,5,6,7,8,9,10,11,12",YEAR: 2004 ID3G: 0,2004,Blues
+jazz,4f071d07,5E7FCE,Peter Malick Group (featuring Norah Jones),New York City,7,1823,3,ExactAudioCopy v0.90b4,"0,1,2,3,4,5,6",YEAR: 2003,2003,Blues
+misc,28119314,2CC6E63,Adam Sandler,What The Hell Happened To Me?,20,4501,5,CDex 1.40Release,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",YEAR: 1996 ID3G: 57,1996,Comedy
+misc,600d2818,2B10F60,Brian Regan,Live,24,3370,1,CDmax 1.9,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",,1997,Comedy
+misc,8610e15b,C9CB3F2,Bruce Buckingham,Guitar Basics,91,4323,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90",This is an example CD that acomponies a guitar instruction book of the same name.,1997,Misc
+misc,b50eab0d,17D565D,Coldplay,X&Y,13,3757,2,CDex 1.51,"0,1,2,3,4,5,6,7,8,9,10,11,12",YEAR: 2005,2005,Rock
+misc,630db618,270EB82,Dane Cook,Harmful If Swallowed,24,3512,0,ExactAudioCopy v0.90b4,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",,2003,Comedy
+misc,be0c400e,C91500,Dane Cook,Retaliation Disc 1 (Want),14,3138,2,libkcddb 0.10,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,2005,Comedy
+misc,c00c010f,1006228,Dane Cook,Retaliation Disc 2 (Need),15,3075,1,ExactAudioCopy v0.95a5,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14",,2005,Comedy
+misc,990cc51c,2AEFADE,Dave Attell,Skanks For The Memories...,28,3271,0,FreeRIP 2.10,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27",,2003,Comedy
+misc,f00fc342,8757122,J.R.R. Tolkien,The Lord Of The Rings - The Fellowship Of The Ring - Disk 1,66,4037,5,CDDB2_Bridge 1.0,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65","CD 1, Part 1",,Audiobook
+misc,9710d348,9D16F2F,J.R.R. Tolkien,The Lord Of The Rings - The Fellowship Of The Ring - Disk 2,72,4309,6,CDDB2_Bridge 1.0,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71","CD 2, Part 2",,Audiobook
+misc,fd0f6142,859E70C,J.R.R. Tolkien,The Lord Of The Rings - The Fellowship Of The Ring - Disk 3,66,3939,4,CDDB2_Bridge 1.0,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65","CD 3, Part 3",,Audiobook
+misc,1910f449,9EB2E02,J.R.R. Tolkien,The Lord Of The Rings - The Return Of The King - Disc 7,73,4342,4,CDDB2_Bridge 1.0,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72",,,Audiobook
+misc,aa0fe243,89F9F54,J.R.R. Tolkien,The Lord Of The Rings - The Return Of The King - Disc 8,67,4068,4,CDDB2_Bridge 1.0,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66",,,Audiobook
+misc,4911354b,A836368,J.R.R. Tolkien,The Lord Of The Rings - The Return Of The King - Disc 9,75,4407,4,CDDB2_Bridge 1.0,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74",,,Audiobook
+misc,d9109144,8F916EC,J.R.R. Tolkien,The Lord Of The Rings - The Two Towers - Disc 4,68,4243,5,CDDB2_Bridge 1.0,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67",,,Audiobook
+misc,a20fff42,88CA94C,J.R.R. Tolkien,The Lord Of The Rings - The Two Towers - Disc 5,66,4097,4,CDDB2_Bridge 1.0,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65",,,Audiobook
+misc,b9106545,92A69F6,J.R.R. Tolkien,The Lord Of The Rings - The Two Towers - Disc 6,69,4199,4,CDDB2_Bridge 1.0,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68",,,Audiobook
+misc,2507e403,202B34,Maxell,CD Laser Lens Cleaner,3,2022,2,Axialis_AX_CDPlayer 2.5,"0,1,2",,,Misc
+misc,d8092d11,1334F2B,Mitch Hedberg,Mitch All Together,17,2351,2,CDex 1.50,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",YEAR: 2003,2003,Comedy
+misc,330ca315,2076040,Mitch Hedberg,Strategic Grill Locations,21,3237,0,EasyCDDAExtractor 5.0.0.0,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",,2002,Comedy
+misc,a30f170b,,Sonic Youth,Sonic Nurse,11,3865,4,ExactAudioCopy v0.95a5,"0,1,2,3,4,5,6,7,8,9,10",YEAR: 2004,2004,Rock
+misc,fc0d7715,14791B8,Strong Bad,Strong Bad Sings (And Other Type Hits),21,3449,2,Kscd 1.3.3,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",,2003,Rock
+misc,2e0b3a26,30FDA94,Todd Barry,Falling Off The Bone,38,2876,0,CDex 1.51,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37",YEAR: 2004,2004,Comedy
+newage,1b026003,93F90,Enya,Oíche Chiún (Silent Night),3,610,9,CDex 1.40Beta8,"0,1,2",YEAR: 1992 ID3G: 88,1992,Newage
+newage,a70a4a0c,E09591,Enya,Shepherd Moons,12,2636,24,MusicMatchJukebox 5.10.0149,"0,1,2,3,4,5,6,7,8,9,10,11",,,Newage
+newage,a00a1a0c,,Enya,Watermark,12,2588,40,ExactAudioCopy v0.95a5,"0,1,2,3,4,5,6,7,8,9,10,11",,1988,Newage
+newage,c60d320e,167C730,The Killers,Hot Fuss - Limited Edition,14,3380,0,ExactAudioCopy v0.95b2,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,2004,Rock
+reggae,bf0e9a0e,188DB72,Bob Marley,Legend,14,3740,7,MusicMatchJukebox 5.10.0138,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,,Reggae
+reggae,b80a620e,11473A8,Bob Marley,The Platinum Collection,14,2660,1,CDmax 2.0,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,2003,Reggae
+reggae,940a630b,D8584A,Bob Marley And The Wailers,Catch A Fire - Deluxe Edition - Disc 1,11,2661,1,CDmax 1.7.6,"0,1,2,3,4,5,6,7,8,9,10",Catch A Fire: The Unreleased Original Jamaican Versions,2001,Reggae
+reggae,77087d09,83EA42,Bob Marley And The Wailers,Catch A Fire - Deluxe Edition - Disc 2,9,2175,2,EZCDDA 0.1,"0,1,2,3,4,5,6,7,8",Catch A Fire: The Released Album (Island ILPS 9241),2001,Reggae
+reggae,9408b60a,94C551,Jefferson Airplane,Somebody To Love - Remastered,10,2232,0,ExactAudioCopy v0.90b4,"0,1,2,3,4,5,6,7,8,9",,2004,Rock
+rock,c4095b0e,103B8EC,311,311,14,2397,19,AltoMP3_Maker 3.0,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,1995,Rock
+rock,9308c70b,B1F794,311,Don't Tread On Me,11,2249,0,dBpowerAMP V4.0,"0,1,2,3,4,5,6,7,8,9,10",,2005,Rock
+rock,37032a04,147C74,311,Enlarged To Show Detail - EP,4,812,0,,"0,1,2,3",,,Rock
+rock,ac0edc0c,C6FB85,311,Evolver,12,3806,4,FreeRIP 2.40,"0,1,2,3,4,5,6,7,8,9,10",,2003,Rock
+rock,a109650c,D1C581,311,From Chaos,12,2407,0,VisiTrax 2.6.2.76,"0,1,2,3,4,5,6,7,8,9,10,11",,,Rock
+rock,b20a9a0e,11BB951,311,Grassroots,14,2716,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,1994,Rock
+rock,cb0a640e,115DB2D,311,Grassroots (edited),14,2662,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,,Rock
+rock,b80d270e,15DA38A,311,Live,14,3369,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,,Rock
+rock,960adc0c,F0AB77,311,MUSIC,12,2782,2,Kscd 1.2.5,"0,1,2,3,4,5,6,7,8,9,10,11",,,Rock
+rock,9f0b000d,11057C6,311,Soundsystem,13,2818,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12",,,Rock
+rock,310f4d15,2BC086B,311,Transistor (Edited),21,4079,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",,1997,Rock
+rock,7f0a2f09,8D0429,[minus],Structure Of Simplicity,9,2610,1,CDmax 1.7.6,"0,1,2,3,4,5,6,7,8",,,Rock
+rock,cc0e5b0e,180D89F,"10,000 Maniacs",MTV Unplugged,14,3677,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,1993,Rock
+rock,7e09b60c,E31B6C,12 Stones,12 Stones,12,2488,1,CDmax 1.9,"0,1,2,3,4,5,6,7,8,9,10,11",Produced and mixed by Jay Baumgardner\nCo-Produced by Dave Fortman\n12stones.com\n©2002 Wind-Up Entertainment,2002,Rock
+rock,810a090b,CA5132,12 Stones,Potter's Field,11,2571,2,EasyCDDAExtractor 7.1.0.1,"0,1,2,3,4,5,6,7,8,9,10",,2004,Rock
+rock,3a050105,279440,A Perfect Circle,3 Libras (Single),5,1283,2,CDmax 1.7.6,"0,1,2,3,4",,,Rock
+rock,770b500c,1009FCB,A Perfect Circle,eMOTIVe,12,2898,2,CDex 1.51,"0,1,2,3,4,5,6,7,8,9,10,11",YEAR: 2004,2004,Rock
+rock,2d03b604,183F52,A Perfect Circle,Judith (Single),4,952,1,DiscPlay 4.0.4,"0,1,2,3",,,Rock
+rock,b20a710c,F6013B,A Perfect Circle,Mer de Noms,12,2675,7,MusicMatchJukebox 5.10.0118,"0,1,2,3,4,5,6,7,8,9,10,11",,2000,Rock
+rock,b30a6e0c,F601F7,A Perfect Circle,Mer de Noms (Edited),12,2672,2,CDmax 2.0,"0,1,2,3,4,5,6,7,8,9,10,11",,2000,Rock
+rock,15029a03,9305A,A Perfect Circle,The Hollow (Single),3,668,0,AudioCatalyst 2.10full,"0,1,2",,,Rock
+rock,ab0bdc0c,1298A61,A Perfect Circle,Thirteenth Step,12,3038,0,ExactAudioCopy v0.95a3,"0,1,2,3,4,5,6,7,8,9,10,11",,2003,Rock
+rock,0601b502,39829,A Perfect Circle,Weak And Powerless,2,439,0,CDex 1.50,"0,1",YEAR: 2003,2003,Rock
+rock,7609e00a,C118FA,AC/DC,Back In Black (Remastered - DualDisc),10,2530,9,ExactAudioCopy v0.95a5,"0,1,2,3,4,5,6,7,8,9",YEAR: 1980 ID3G: 17,1980,Rock
+rock,930a130c,E65DB9,Adema,Adema,12,2581,2,RioPort_Audio_Manager 3.3,"0,1,2,3,4,5,6,7,8,9,10,11",,,Rock
+rock,810a490c,EB1B5C,Adema,Adema (bootleg),12,2635,0,,"0,1,2,3,4,5,6,7,8,9,10,11",,2001,Rock
+rock,50065107,4FA4B2,Adema,Insomniac's Dream,7,1619,1,CDmax 1.9,"0,1,2,3,4,5,6",,2002,Rock
+rock,03111a10,2043033,Adema,Planets,16,4380,1,CDex 1.51,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15",YEAR: 2005,2005,Rock
+rock,a00a340d,DA4FC3,Adema,Unstable,13,2614,1,CDex 1.50,"0,1,2,3,4,5,6,7,8,9,10,11",YEAR: 2003,2003,Rock
+rock,6c086309,8DE1EE,Aerosmith,Done With Mirrors,9,2149,0,,"0,1,2,3,4,5,6,7,8",,,Rock
+rock,ba0e8d0e,1741D38,Aerosmith,Get A Grip,14,3727,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,1993,Rock
+rock,920be80c,10E4D96,Aerosmith,Just Push Play,12,3050,2,CDmax 1.8,"0,1,2,3,4,5,6,7,8,9,10,11",,2001,Rock
+rock,55065906,3BBF03,Aerosmith,Made In America,6,1627,0,,"0,1,2,3,4,5",,,Rock
+rock,af0ec00d,1683455,Aerosmith,Nine Lives,13,3778,17,Axialis_AX_CDPlayer 2.5,"0,1,2,3,4,5,6,7,8,9,10,11,12",This disc has CD-Text information.,1997,Rock
+rock,e3108110,1F001D7,Aerosmith,"O, YEAH! Ultimate Aerosmith Hits - Disc 1",16,4227,3,ExactAudioCopy v0.90b4,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15",YEAR: 2002 ID3G: 17,2002,Rock
+rock,d40e7f0e,1A9A826,Aerosmith,"O, YEAH! Ultimate Aerosmith Hits - Disc 2",14,3713,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,2002,Rock
+rock,cc123f0f,1E8A067,Aerosmith,Pandora's Box - Disc 1,15,4673,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14",,,Rock
+rock,0d111012,26FAA2F,Aerosmith,Pandora's Box - Disc 2,18,4370,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",,,Rock
+rock,43119114,2AF3A99,Aerosmith,Pandora's Box - Disc 3,20,4499,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",,,Rock
+rock,a50c1f0c,12057A1,Aerosmith,Permanent Vacation,12,3105,0,,"0,1,2,3,4,5,6,7,8,9,10,11",,,Rock
+rock,7d0b2f0a,CBF8DE,Aerosmith,Pump,10,2865,0,,"0,1,2,3,4,5,6,7,8,9",,1989,Rock
+rock,7a081309,8EA1D6,Aerosmith,Rocks,9,2069,0,,"0,1,2,3,4,5,6,7,8",,1976,Rock
+rock,7a08b809,85FC3E,Aerosmith,Toys In The Attic,9,2234,0,,"0,1,2,3,4,5,6,7,8",,,Rock
+rock,7a09750a,B3D25E,Alice Cooper,Trash,10,2423,0,,"0,1,2,3,4,5,6,7,8,9",,,Rock
+rock,b60f350c,14C775C,Alice In Chains,Alice In Chains,12,3895,21,AudioCatalyst 2.10full,"0,1,2,3,4,5,6,7,8,9,10,11",,,Rock
+rock,950d7f0d,15E2990,Alice In Chains,Dirt,13,3457,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12",,,Rock
+rock,710a7b0a,C30861,Alice In Chains,Greatest Hits,10,2685,1,CDmax 1.7.6,"0,1,2,3,4,5,6,7,8,9",,,Rock
+rock,5f073b07,64B425,Alice In Chains,Jar Of Flies,7,1853,3,PowerPlay 1.31b,"0,1,2,3,4,5,6",,,Rock
+rock,c40f810e,1C667C2,Alice In Chains,Live,14,3971,1,AudioCatalyst 2.10full,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,,Rock
+rock,b810c20d,19640A3,Alice In Chains,Unplugged,13,4292,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12",,1996,Rock
+rock,aa0d120d,12653AB,Alien Ant Farm,ANThology,13,3348,2,MusicMatchJukebox 5.10.0144,"0,1,2,3,4,5,6,7,8,9,10,11,12",,2001,Rock
+rock,8909b30b,C76204,American Pearl,American Pearl,11,2485,3,AudioCatalyst 2.10full,"0,1,2,3,4,5,6,7,8,9,10",,,Rock
+rock,9208680a,96C8EB,Angelfish,Angelfish,10,2154,0,,"0,1,2,3,4,5,6,7,8,9",,1993,Rock
+rock,690b400a,C6F15E,Arcade Fire,Funeral,10,2882,7,ExactAudioCopy v0.95b2,"0,1,2,3,4,5,6,7,8,9",Paper-Sleeve.\\r\nMRG 255 / 0 36172 95552 7 YEAR: 2004,2004,Rock
+rock,4a07bf07,54DAE7,Arcade Fire,The Arcade Fire,7,1985,4,CDex 1.51,"0,1,2,3,4,5,6",YEAR: 2003,2003,Rock
+rock,a50d700d,F05B6D,Audiovent,Dirty Sexy Knights In Paris,13,3442,3,audiograbber 1.81.01,"0,1,2,3,4,5,6,7,8,9,10,11",,2002,Rock
+rock,960ead0d,,Auf der Maur,Auf der Maur,13,3759,0,ExactAudioCopy v0.95a4,"0,1,2,3,4,5,6,7,8,9,10,11,12",YEAR: 2004,2004,Rock
+rock,20059603,4DB40,Auf der Maur,Followed The Waves (CD Single),3,1432,0,CDex 1.51,"0,1",YEAR: 2004,2004,Rock
+rock,e10e7710,1B366F2,Badly Drawn Boy,One Plus One Is One,16,3705,0,FreeRIP 2.70,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15",,2004,Rock
+rock,0f113c13,2814329,Barenaked Ladies,Disc One: All Their Greatest Hits (1991-2001),19,4414,14,CDex 1.50,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",Reprise Records YEAR: 2001,2001,Rock
+rock,990b970c,11B3BEF,Ben Folds Five,Whatever And Ever Amen,12,2969,8,CDmax 1.7.5,"0,1,2,3,4,5,6,7,8,9,10,11",,,Rock
+rock,ca0cca0f,FC8297,Better Than Nothing,Gimme Your Jena Tulz,15,3276,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,2003,Rock
+rock,ea10de10,2130680,Billy Idol,Greatest Hits,16,4320,16,ExactAudioCopy v0.90b4,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15",YEAR: 2001 ID3G: 17,2001,Rock
+rock,2a123e12,2A945CF,Billy Joel,The Essential Billy Joel,18,4672,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",,2001,Rock
+rock,fc121512,2BFFA7F,Billy Joel,The Essential Billy Joel,18,4631,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",,2001,Rock
+rock,870a220a,BC3F5D,Billy Squier,The Best Of Billy Squier,10,2596,5,CDDB2_Bridge 1.0,"0,1,2,3,4,5,6,7,8,9",,1997,Rock
+rock,7209e308,94D924,Black Sabbath,Paranoid,8,2533,0,,"0,1,2,3,4,5,6,7",,1970,Rock
+rock,ce0f030f,1258F03,Blink 182,Blink 182,15,3845,0,ExactAudioCopy v0.90b4,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,2003,Rock
+rock,830c290a,EB2631,Bob Dylan,Blood On The Tracks,10,3115,0,,"0,1,2,3,4,5,6,7,8,9",,,Rock
+rock,81098f0a,B05474,Bob Dylan,Greatest Hits,10,2449,2,MusicMatchJukebox 4.40.0122,"0,1,2,3,4,5,6,7,8,9",,1999,Rock
+rock,c80eb00e,19F6C5E,Bob Seger & The Silver Bullet Band,Greatest Hits,14,3762,30,CDex 1.40Release,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",23\nCOPYRIGHT = 1994 YEAR: 1994 ID3G: 17,1994,Rock
+rock,810a410a,C5EB2D,Bon Jovi,Slippery When Wet (Remastered),10,2627,2,CDmax 1.8,"0,1,2,3,4,5,6,7,8,9",,1986,Rock
+rock,7d08d408,8828FB,Boston,Boston,8,2262,0,,"0,1,2,3,4,5,6,7",,,Rock
+rock,cb0c150e,1433CC8,BOYSETSFIRE,After The Eulogy,14,3095,3,audiograbber 1.80,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,2000,Rock
+rock,9b0bfb0d,1285C9B,BOYSETSFIRE,Tomorrow Come Today,13,3069,0,dBpowerAMP V4.0,"0,1,2,3,4,5,6,7,8,9,10,11,12",,2003,Rock
+rock,b00c620e,11F27BD,Breaking Benjamin,Saturate,14,3172,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12",,2002,Rock
+rock,4104c906,219BB3,Breaking Benjamin,So Cold EP,6,1227,0,dBpowerAMP V4.0,"0,1,2,3,4",,2004,Rock
+rock,a60a9a0c,CA3C7F,Breaking Benjamin,We Are Not Alone,12,2716,0,ExactAudioCopy v0.95a5,"0,1,2,3,4,5,6,7,8,9,10",,2004,Rock
+rock,880bbd0c,1110493,Bright Eyes,Digital Ash In A Digital Urn,12,3007,7,CDex 1.51,"0,1,2,3,4,5,6,7,8,9,10,11",YEAR: 2005,2005,Rock
+rock,960cee0c,1115A99,Bright Eyes,Fevers And Mirrors,12,3312,3,ExactAudioCopy v0.95a5,"0,1,2,3,4,5,6,7,8,9,10,11",(c)2000 Saddle Creek Records\nhttp://www.saddle-creek.com\n\nReviewed inToo Much Rock\nhttp://www.toomuchrock.com,2000,Rock
+rock,910ab50a,CA2258,Bright Eyes,"I'm Wide Awake, It's Morning",10,2743,8,MusicBin 0.3,"0,1,2,3,4,5,6,7,8,9",,2005,Rock
+rock,970b1a0c,107469C,Bush,Golden State,12,2844,1,VisiTrax 2.7.4.106,"0,1,2,3,4,5,6,7,8,9,10",,2001,Rock
+rock,b70e770d,1604034,Bush,Razorblade Suitcase,13,3705,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12",,1996,Rock
+rock,a40c650c,12C68D7,Bush,Sixteen Stone,12,3175,0,,"0,1,2,3,4,5,6,7,8,9,10,11",,,Rock
+rock,9a0c080c,10C61E5,Bush,The Science Of Things,12,3082,10,MusicMatchJukebox 4.20.0075,"0,1,2,3,4,5,6,7,8,9,10,11",,,Rock
+rock,9109f50a,C4B8F8,Chevelle,Live From The Road,10,2551,0,dBpowerAMP V4.0,"0,1,2,3,4,5,6,7,8,9",,2003,Rock
+rock,830a010b,BF296A,Chevelle,Point #1,11,2563,1,CDex 1.30,"0,1,2,3,4,5,6,7,8,9,10",YEAR: 2001  ID3G:  17,2001,Rock
+rock,9b0aec0b,D85F4E,Chevelle,This Type Of Thinking (Could Do Us In),11,2798,0,dBpowerAMP V4.0,"0,1,2,3,4,5,6,7,8,9,10",The follow-up album to Wonder What's Next.,2004,Rock
+rock,a50ae70b,DECA85,Chevelle,Wonder What's Next,11,2793,2,CDex 1.40Release,"0,1,2,3,4,5,6,7,8,9,10",YEAR: 2002 ID3G: 79,2002,Rock
+rock,860a5d0a,D0DBC9,Cinderella,Long Cold Winter,10,2655,0,,"0,1,2,3,4,5,6,7,8,9",,1988,Rock
+rock,cc0cf310,173FA18,Coal Chamber,Chamber Music,16,3317,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15",,,Rock
+rock,c00b940e,127B4D1,Coal Chamber,Coal Chamber,14,2966,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,,Rock
+rock,ad0b640d,11FEAB8,Cold,13 Ways To Bleed On Stage,13,2918,5,MusicMatchJukebox 5.10.0131,"0,1,2,3,4,5,6,7,8,9,10,11,12",,2000,Rock
+rock,a90b960b,F4EC68,Cold,Cold,11,2968,2,QuintessentialCD v1.27,"0,1,2,3,4,5,6,7,8,9,10",,1997,Rock
+rock,0e01e102,39B72,Cold,Stupid Girl (Single),2,483,1,CDmax 2.0,"0,1",,2003,Rock
+rock,b90efe0d,11383C6,Cold,Year Of The Spider,13,3840,0,CDex 1.50Beta6,"0,1,2,3,4,5,6,7,8,9,10,11,12",YEAR: 2003,2003,Rock
+rock,910cb60b,,Coldplay,A Rush Of Blood To The Head,11,3256,5,ExactAudioCopy v0.95a4,"0,1,2,3,4,5,6,7,8,9,10",,2002,Rock
+rock,8609cc0a,ACF65E,Coldplay,Parachutes,10,2510,1,tcd 2.0b,"0,1,2,3,4,5,6,7,8,9",,2000,Rock
+rock,8509330b,BDFB9A,Collective Soul,Blender,11,2357,0,,"0,1,2,3,4,5,6,7,8,9,10",,,Rock
+rock,920ad80c,1016E9B,Collective Soul,Collective Soul,12,2778,0,,"0,1,2,3,4,5,6,7,8,9,10,11",,,Rock
+rock,9c0aeb0c,1026986,Collective Soul,Disciplined Breakdown,12,2797,9,CDmax 1.7.3,"0,1,2,3,4,5,6,7,8,9,10,11",,1997,Rock
+rock,870bce0b,DEEBAC,Collective Soul,Dosage,11,3024,18,MusicMatchJukebox 4.30.0058,"0,1,2,3,4,5,6,7,8,9",,1999,Rock
+rock,a80aa10d,118C0BA,Collective Soul,Hints Allegations And Things Left Unsaid,13,2723,11,CDex 1.40Release,"0,1,2,3,4,5,6,7,8,9,10,11,12",YEAR: 1993 ID3G: 40,1993,Rock
+rock,9908df0b,BDC776,Collective Soul,Youth,11,2273,1,EasyCDDAExtractor 6.5.0.3,"0,1,2,3,4,5,6,7,8,9,10",,2004,Rock
+rock,3710d514,29E317D,Cream,The Very Best Of Cream,20,4311,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",,,Rock
+rock,a30d360b,10B8B6C,Creed,Human Clay,11,3384,0,,"0,1,2,3,4,5,6,7,8,9,10",,,Rock
+rock,7f0b860a,E6D773,Creed,My Own Prison,10,2952,61,MusicMatchJukebox 5.00.0171,"0,1,2,3,4,5,6,7,8,9",,1997,Rock
+rock,8c0bbd0b,FD02A9,Creed,Weathered,11,3007,1,CDDB2_Bridge 1.0,"0,1,2,3,4,5,6,7,8,9,10",release date Nov30th 2001,,Rock
+rock,2a0ff814,26433D7,Creedence Clearwater Revival,Chronicle,20,4090,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",,1976,Rock
+rock,3b100314,26574A0,Creedence Clearwater Revival,Chronicle,20,4101,1,tcd 2.0b,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",,1976,Rock
+rock,5e087509,79D75F,Creedence Clearwater Revival,Rollin' On The River,9,2167,1,MusicMatchJukebox 5.00.0191,"0,1,2,3,4,5,6,7,8",,1988,Rock
+rock,c80de90e,185B729,Dave Matthews,Some Devil,14,3563,1,EasyCDDAExtractor 6.0.0.1,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,2003,Rock
+rock,9610a80c,,Dave Matthews & Tim Reynolds,Live At Luther College - Disc 1,12,4266,16,ExactAudioCopy v0.95a4,"0,1,2,3,4,5,6,7,8,9,10,11",,1999,Rock
+rock,8e0f4f0b,1630486,Dave Matthews & Tim Reynolds,Live At Luther College - Disc 2,11,3921,0,,"0,1,2,3,4,5,6,7,8,9,10",,1999,Rock
+rock,37070205,3573A6,Dave Matthews & Tim Reynolds,Some Devil [Bonus Disc] Disc 2,5,1796,3,ExactAudioCopy v0.90b4,"0,1,2,3,4",,2003,Rock
+rock,88107b0b,12B6D70,Dave Matthews Band,Before These Crowded Streets,11,4221,35,MusicMatchJukebox 5.00.0171,"0,1,2,3,4,5,6,7,8,9,10",,1998,Rock
+rock,9f0cd30b,F7423C,Dave Matthews Band,Busted Stuff,11,3285,0,ExactAudioCopy v0.90b4,"0,1,2,3,4,5,6,7,8,9,10",,2002,Rock
+rock,ba10240c,15F753F,Dave Matthews Band,Crash,12,4134,37,MusicMatchJukebox 4.30.0058,"0,1,2,3,4,5,6,7,8,9,10,11",,1996,Rock
+rock,9e0bf00c,10B355F,Dave Matthews Band,Everyday,12,3058,2,Kscd 1.2.7,"0,1,2,3,4,5,6,7,8,9,10,11",,2001,Rock
+rock,8c11140a,112FBBD,Dave Matthews Band,Listener Supported - Disc 1,10,4374,3,MusicMatchJukebox 4.20.0051,"0,1,2,3,4,5,6,7,8,9",,1999,Rock
+rock,810f630a,13A1536,Dave Matthews Band,Listener Supported - Disc 2,10,3941,2,CDmax 1.7.5,"0,1,2,3,4,5,6,7,8,9",,1999,Rock
+rock,af111a0b,180B91B,Dave Matthews Band,Live At Folsom Field Boulder Colorado - Disc 1,11,4380,1,CDmax 1.9,"0,1,2,3,4,5,6,7,8,9,10","This was recorded live at Folsom Field - Boulder, Colorado on 7/11/2001",2002,Rock
+rock,8c12480a,16FEA55,Dave Matthews Band,Live At Folsom Field Boulder Colorado - Disc 2,10,4682,0,,"0,1,2,3,4,5,6,7,8,9",,2002,Rock
+rock,77112709,12DF056,Dave Matthews Band,Live At Red Rocks 8.15.95 - Disc 1,9,4393,0,,"0,1,2,3,4,5,6,7,8",,1997,Rock
+rock,6c0db008,BCDEDF,Dave Matthews Band,Live At Red Rocks 8.15.95 - Disc 2,8,3506,0,,"0,1,2,3,4,5,6,7",,1997,Rock
+rock,a30fee0b,1591F3A,Dave Matthews Band,Live In Chicago 12.19.98 - Disc 1,11,4080,1,AudioCatalyst 2.10full,"0,1,2,3,4,5,6,7,8,9,10",At The United Center,2001,Rock
+rock,830e4b08,DF1D39,Dave Matthews Band,Live In Chicago 12.19.98 - Disc 2,8,3661,1,AudioCatalyst 2.10full,"0,1,2,3,4,5,6,7",At The United Center,2001,Rock
+rock,3b06b605,317DF4,Dave Matthews Band,Recently,5,1720,0,,"0,1,2,3,4",,1994,Rock
+rock,2d03d304,17694B,Dave Matthews Band,Recently (Radio Distribution),4,981,0,,"0,1,2,3",,1994,Rock
+rock,8e0e120a,FB18E7,Dave Matthews Band,Remember Two Things,10,3604,0,,"0,1,2,3,4,5,6,7,8,9",,1993,Rock
+rock,b90d3e0e,1640E1C,Dave Matthews Band,Stand Up,14,3392,2,ExactAudioCopy v0.95a4,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,2005,Rock
+rock,3e099506,6B571E,Dave Matthews Band,The Central Park Concert - Disc 1,6,2455,2,ExactAudioCopy v0.95a3,"0,1,2,3,4,5",,2003,Rock
+rock,5a0cf406,84D8B3,Dave Matthews Band,The Central Park Concert - Disc 2,6,3318,3,ExactAudioCopy v0.95a3,"0,1,2,3,4,5",,2003,Rock
+rock,7d100f08,10F1FE6,Dave Matthews Band,The Central Park Concert - Disc 3,8,4113,4,CDex 1.50,"0,1,2,3,4,5,6,7",YEAR: 2003,2003,Rock
+rock,630e5908,A1E7F6,Dave Matthews Band,The Gorge - Disc 1,8,3675,4,FreeRIP 2.80,"0,1,2,3,4,5,6,7",YEAR: 2004,2004,Rock
+rock,5b0c0c06,6C88D6,Dave Matthews Band,The Gorge - Disc 2,6,3086,1,EasyCDDAExtractor 6.2.0.3,"0,1,2,3,4,5",,2004,Rock
+rock,610ed322,643DCD4,Dave Matthews Band,Under The Table And Dreaming,34,3797,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33",,1994,Rock
+rock,65095408,90DAE0,David Bowie,Let's Dance (Remastered),8,2390,3,Grip 2.91,"0,1,2,3,4,5,6,7","This is an enhanced cd.\n1983 David Bowie / EMI America CDP 546002\n1999Jones/Tintoretto Entertainment Co., LLC.",1983,Rock
+rock,8e0b930b,E2709A,David Bowie,Reality,11,2965,7,Advanced CD Ripper Pro 2.0,"0,1,2,3,4,5,6,7,8,9,10",,2003,Rock
+rock,af0c760c,11E8837,David Lee Roth,A Little Ain't Enough,12,3192,3,CDex 1.40Beta9,"0,1,2,3,4,5,6,7,8,9,10,11",YEAR: 1991 ID3G: 17,1991,Rock
+rock,9b0ab70b,D91A4E,Death Cab For Cutie,Transatlanticism,11,2745,8,BonkEnc v1.0beta3,"0,1,2,3,4,5,6,7,8,9,10",,2003,Rock
+rock,a50eae0c,1613060,Def Leppard,Hysteria,12,3760,0,,"0,1,2,3,4,5,6,7,8,9,10,11",,,Rock
+rock,910a980a,C0E370,Def Leppard,Pyromania,10,2714,6,AudioCatalyst 2.10full,"0,1,2,3,4,5,6,7,8,9",,,Rock
+rock,7a0b0c0b,E526DD,Deftones,Adrenaline,11,2830,11,MusicMatchJukebox 4.50.0029,"0,1,2,3,4,5,6,7,8,9,10",,1995,Rock
+rock,8311580a,A9659E,Deftones,Around The Fur,10,4442,0,,"0,1,2,3,4,5,6,7,8,9",,1997,Rock
+rock,a40fae0c,,Deftones,Deftones,12,4016,1,ExactAudioCopy v0.95a4,"0,1,2,3,4,5,6,7,8,9,10,11",,2003,Rock
+rock,930b760b,D14245,Deftones,White Pony,11,2936,0,,"0,1,2,3,4,5,6,7,8,9,10",,,Rock
+rock,860b0609,B01A44,Depeche Mode,Violator,9,2824,49,MusicMatchJukebox 5.10.0149,"0,1,2,3,4,5,6,7,8",,,Rock
+rock,9e0ca90b,EF684A,Dido,Life For Rent,11,3243,1,ExactAudioCopy v0.90b4,"0,1,2,3,4,5,6,7,8,9,10",,2003,Rock
+rock,ac0c2d0c,112DD06,Dido,No Angel,12,3119,23,CDmax 2.0,"0,1,2,3,4,5,6,7,8,9,10,11","LABEL = Arista Records, Inc.\nID = 07822-19025-2\nUPC = 07822-19025-26\nCOPYRIGHT = 1999\n*****\nYEAR: 1999  ID3G:  17",1999,Rock
+rock,a80f8f0c,15560B4,Dire Straits,Money For Nothing,12,3985,0,,"0,1,2,3,4,5,6,7,8,9,10,11",,,Rock
+rock,870b1a0c,1003BF1,Disturbed,Believe,12,2844,0,,"0,1,2,3,4,5,6,7,8,9,10,11",Produced by Johnny K and Disturbed\nMixed by Andy Wallace\nThis enhancedaudio CD also contains bonus multimedia content which is playable on most computers.\ndisturbed1.com\nrepriserecords.com,2002,Rock
+rock,a20b300c,FF0D03,Disturbed,The Sickness,12,2866,2,EZCDDA 0.1,"0,1,2,3,4,5,6,7,8,9,10,11",,2000,Rock
+rock,830c830a,EBF375,Don Henley,The End Of The Innocence,10,3205,0,,"0,1,2,3,4,5,6,7,8,9",,1989,Rock
+rock,9c0a250b,D3878B,Dust For Life,Dust For Life,11,2599,4,MusicMatchJukebox 4.50.0027,"0,1,2,3,4,5,6,7,8,9,10",,,Rock
+rock,ec115f0f,1E1CEA8,Eagles,Hell Freezes Over,15,4449,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14",,,Rock
+rock,3d057905,2FAF88,Elton John,Believe (Single),5,1403,0,,"0,1,2,3,4",,,Rock
+rock,9b0b3c0b,EDAE56,Elton John,Greatest Hits,11,2878,15,FreeRIP 2.52,"0,1,2,3,4,5,6,7,8,9,10",0\n\n\n YEAR: 1974,1974,Pop
+rock,c20e810e,17A2D87,Evanescence,Anywhere But Home,14,3715,1,BonkEnc v1.0beta2,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",YEAR: 2004,2004,Rock
+rock,880a630b,CE5273,Evanescence,Fallen,11,2661,13,FreeRIP 2.30,"0,1,2,3,4,5,6,7,8,9,10",,2003,Rock
+rock,bb101a0d,D98130,Everclear,Slow Motion Daydream,13,4124,2,ExactAudioCopy v0.90b4,"0,1,2,3,4,5,6,7,8,9,10,11",,2003,Rock
+rock,9f0b6f0d,F65191,Everclear,So Much For The Afterglow,13,2929,56,CDCOPY 4.900,"0,1,2,3,4,5,6,7,8,9,10,11,12",YEAR: 1997 ID3G:  17,1997,Rock
+rock,a30aa30c,E36D81,Everclear,Songs From An American Movie Vol. One: Learning How To Smile,12,2725,2,EZCDDA 0.1,"0,1,2,3,4,5,6,7,8,9,10,11",,,Rock
+rock,a20a7a0c,EA8B25,Everclear,Songs From An American Movie Vol. Two: Good Time For A BadAttitude,12,2684,1,CDmax 1.7.6,"0,1,2,3,4,5,6,7,8,10,11",,2000,Rock
+rock,ba0f1a0d,186ABFD,Extreme,Extreme II - Pornograffitti,13,3868,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12",,,Rock
+rock,870cfe0b,101C509,Faith No More,The Real Thing,11,3328,0,,"0,1,2,3,4,5,6,7,8,9,10",,1989,Rock
+rock,b80d850c,1206ACD,Filter,The Amalgamut,12,3463,0,CDex 1.40Release,"0,1,2,3,4,5,6,7,8,9,10,11",YEAR: 2002 ID3G: 17,2002,Rock
+rock,9010850b,10227A7,Filter,Title Of Record,11,4231,12,QuintessentialCD v1.27,"0,1,2,3,4,5,6,7,8,9,10",,1999,Rock
+rock,830ae60c,EB2F60,Finger Eleven,Finger Eleven,12,2792,6,dBpowerAMP V4.0,"0,1,2,3,4,5,6,7,8,9,10,11",,2003,Rock
+rock,b409a60b,C3B793,Finger Eleven,The Greyest Of Blue Skies,11,2472,0,,"0,1,2,3,4,5,6,7,8,9,10",,2000,Rock
+rock,2303ab04,15625D,Fith,Fith,4,941,0,,"0,1,2,3",,2003,Rock
+rock,af0db40e,1787FCB,Flaming Lips,The Soft Bulletin,14,3510,19,FreeRIP 2.70,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,1999,Rock
+rock,a40bb40c,1051749,Flaw,Endangered Species,12,2998,1,EasyCDDAExtractor 7.0.4.1,"0,1,2,3,4,5,6,7,8,9,10,11",,2004,Rock
+rock,b412800e,1.44E+09,Flaw,Through The Eyes,14,4738,1,Kscd 1.3.3,"0,1,2,3,4,5,6,7,8,9,10,11,12",,2001,Rock
+rock,f00f1b10,1CDC3E9,Fleetwood Mac,Greatest Hits,16,3869,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15",,,Rock
+rock,a60adf0b,DE109A,Foo Fighters,There Is Nothing Left To Lose,11,2785,9,NotifyCDPlayer(CDDB) 1.51.3,"0,1,2,3,4,5,6,7,8,9,10",Contains 'Learn To Fly' video. (EnchancedCD),1999,Rock
+rock,fe112411,25D9C40,Foreigner,The Very Best... And Beyond,17,4390,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",,,Rock
+rock,15023403,B094D,Franz Ferdinand,Take Me Out,3,566,1,CDex 1.51,"0,1,2",YEAR: 2004,2004,Indie
+rock,9e0d5c0d,10C66A6,Fuel,Natural Selection,13,3422,2,CDex 1.50,"0,1,2,3,4,5,6,7,8,9,10,11",YEAR: 2003,2003,Rock
+rock,14026103,95C3D,Fuel,Shimmer (Single),3,611,1,MusicMatchJukebox 5.00.0191,"0,1,2",,,Rock
+rock,a50a0b0c,E47B63,Fuel,Something Like Human,12,2573,0,,"0,1,2,3,4,5,6,7,8,9,10,11",,,Rock
+rock,9409de0b,D0015B,Fuel,Sunburn,11,2528,16,MusicMatchJukebox 5.00.0142,"0,1,2,3,4,5,6,7,8,9",,1998,Rock
+rock,2b047b04,191C91,Garbage,Androgyny (Single - Black),4,1149,1,CDmax 1.7.6,"0,1,2,3",,2001,Rock
+rock,9e0c6d0d,11EC94D,Garbage,Beautiful Garbage (Bootleg),13,3183,1,SoundJam 2.0,"0,1,2,3,4,5,6,7,8,9,10,11,12",,2001,Rock
+rock,a90c870d,123402F,Garbage,Beautiful Garbage (Pre-Release),13,3209,1,SoundJam 2.0,"0,1,2,3,4,5,6,7,8,9,10,11,12",,2001,Rock
+rock,8e0a920b,D26D66,Garbage,Bleed Like Me,11,2708,0,dBpowerAMP V4.0,"0,1,2,3,4,5,6,7,8,9,10",,2005,Rock
+rock,9b0bf90c,1164B29,Garbage,Garbage,12,3067,20,PowerPlay 1.31b,"0,1,2,3,4,5,6,7,8,9,10,11",,1995,Rock
+rock,b60e2a0e,1807AB1,Garbage,Garbage (Japanese Import),14,3628,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,1995,Rock
+rock,9110313,26CC10B,Garbage,Hole / Adam's Mix # 01,19,4357,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",,1996,Rock
+rock,1b027903,B330A,Garbage,I Think I'm Paranoid (Single - Disc 1 - Yellow),3,635,1,NotifyCDPlayer(CDDB) 1.51.3,"0,1,2",,1998,Rock
+rock,1703e903,E382D,Garbage,I Think I'm Paranoid (Single - Disc 2 - Silver),3,1003,0,,"0,1,2",,1998,Rock
+rock,2f044204,1C446D,Garbage,Milk (Single - Silver),4,1092,0,,"0,1,2,3",,1996,Rock
+rock,17020a03,A2311,Garbage,Only Happy When It Rains (Single - Blue),3,524,0,,"0,1,2",,1996,Rock
+rock,1c035703,B2B23,Garbage,Push It (Single - Disc 1 - Silver),3,857,0,,"0,1,2",,1998,Rock
+rock,2f04da04,1A3E5E,Garbage,Queer (Single - Disc 2 - Orange),4,1244,0,,"0,1,2,3",,1995,Rock
+rock,1d038b03,A5F66,Garbage,Special (Single - Disc 1 - Blue),3,909,4,Axialis_AX_CDPlayer 2.5,"0,1,2",,1998,Rock
+rock,1b039503,B3324,Garbage,Special (Single - Disc 2 - Pink),3,919,1,MusiCat 1.0b5,"0,1,2",1900,1998,Rock
+rock,1f02ce03,C282A,Garbage,Stupid Girl (Single - White),3,720,0,,"0,1,2",,1996,Rock
+rock,0200df01,4382,Garbage,Supervixon (Single - Edit - Promo Copy),1,225,0,,0,"This is a promotional copy, and is marked 'Not For Sale'.",1995,Rock
+rock,15030603,D0F75,Garbage,The World Is Not Enough (Single - Gray),3,776,0,,"0,1,2",,1999,Rock
+rock,b90ba20c,1065CA0,Garbage,Version 2.0,12,2980,0,,"0,1,2,3,4,5,6,7,8,9,10,11",,1998,Rock
+rock,18041803,9333D,Garbage,When I Grow Up (Single - Disc 1 - Blue),3,1050,2,QuintessentialCD v1.27,"0,1,2",,1998,Rock
+rock,14027b03,A296D,Garbage,When I Grow Up (Single - Disc 2 - Pink),3,637,0,,"0,1,2",,1998,Rock
+rock,1a036004,138973,Garbage,You Look So Fine (Single - Disc 2 - Pink),4,866,0,,"0,1,2,3",,1999,Rock
+rock,900b410b,E403D8,Geddy Lee,My Favorite Headache,11,2883,5,QuintessentialCD v1.1,"0,1,2,3,4,5,6,7,8,9,10","Produced by Geddy Lee, Ben Mink and David Leonard\nMixed and Engineered by David Leonard\n\nMusicians\nGeddy Lee | Basses, Voices, Piano, Guitar,Programming, Percussion, Whining\nBen Mink | Electric and Acoustic Guitars, Violins and Violas, Programming, Wheezing\nMatt Cameron | Drums\n\nJeremy Taggart - Drums on 'Home On The Strange'\n\nJohn Friesen - Cellos on'Working at Perfekt' \nEd Wilson - Additional Programming\nChris Stringer-Additional Percussion\nWaylon Wall - Steel Guitar on 'Window'\nPappy Rosen - Backward vocals on 'Slipping'\nDuke - Dog\n\nLyrics - Geddy Lee, Music - Geddy Lee and Ben Mink\nString Arrangements - Ben Mink and Geddy Lee\n\nhttp://www.myfavoriteheadache.com/\nhttp://www.geddylee.com/",2000,Rock
+rock,9a0ad60c,F982A8,Gin Blossoms,New Miserable Experience,12,2776,23,CDex 1.50beta9a,"0,1,2,3,4,5,6,7,8,9,10,11",YEAR: 1992,1992,Rock
+rock,920aae0b,E6267E,Godsmack,Awake,11,2736,0,,"0,1,2,3,4,5,6,7,8,9,10",This is an enhancedCD,2000,Rock
+rock,c80bc50d,1097378,Godsmack,Faceless,13,3015,3,ExactAudioCopy v0.90b4,"0,1,2,3,4,5,6,7,8,9,10,11",www.dark-phoenix.com YEAR: 2003,2003,Rock
+rock,920cf30c,104806A,Godsmack,Godsmack,12,3317,57,CDex 1.50Beta6,"0,1,2,3,4,5,6,7,8,9,10,11",YEAR: 1998,1998,Rock
+rock,4d070207,,Godsmack,The Other Side,7,1796,3,ExactAudioCopy v0.95a4,"0,1,2,3,4,5,6",Acoustic,2004,Hard Rock
+rock,db123811,26FFF42,Grateful Dead,The Very Best Of,17,4666,0,CDex 1.50,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",YEAR: 2003,2003,Folk
+rock,840d2c0a,F8C170,Great White,The Best Of Great White,10,3374,1,CDmax 1.8,"0,1,2,3,4,5,6,7,8,9",,2000,Rock
+rock,b509520e,FB8025,Green Day,Dookie,14,2388,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,,Rock
+rock,b10c9c0c,11B9340,Guns N' Roses,Appetite For Destruction,12,3230,0,,"0,1,2,3,4,5,6,7,8,9,10,11",,1987,Rock
+rock,ea11f011,266B553,Heart,Greatest Hits,17,4594,2,EZCDDA 0.1,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",,,Rock
+rock,2b10d715,,Helmet,Unsung: The Best of Helmet (1991-1997),21,4313,1,ExactAudioCopy v0.95a4,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",,2004,Rock
+rock,9f0bd40c,1010FC7,Hole,Celebrity Skin,12,3030,3,CDmax 1.7.5,"0,1,2,3,4,5,6,7,8,9,10,11",,1998,Rock
+rock,950af40c,10E7466,Hootie & The Blowfish,Cracked Rear View,12,2806,0,,"0,1,2,3,4,5,6,7,8,9,10,11",,,Rock
+rock,d70d110e,15F2005,Howard Jones,Dream Into Action,14,3347,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,,Rock
+rock,840bf80a,DC422D,Howard Jones,In The Running,10,3066,1,CDmax 1.9,"0,1,2,3,4,5,6,7,8,9",,1992,Rock
+rock,13125c12,2.66E+11,Howard Jones,The Best Of Howard Jones,18,4702,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",,1993,Rock
+rock,b70e050f,13281D8,Ill Niño,Confession,15,3591,1,CDmax 2.0,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,2003,Rock
+rock,c90dc20e,17C66F2,Incubus,A Crow Left Of The Murder,14,3524,6,CDex 1.51,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",YEAR: 2004,2004,Rock
+rock,aa0dae0d,14F6B87,Incubus,Morning View,13,3504,2,CDDB2_Bridge 1.0,"0,1,2,3,4,5,6,7,8,9,10,11,12",,2001,Rock
+rock,a20fa10d,E62C78,Incubus,S.C.I.E.N.C.E.,13,4003,5,dBpowerAMP V4.0,"0,1,2,3,4,5,6,7,8,9,10,11",1st track name corrected,1997,Rock
+rock,dd0e1410,1B404E6,INXS,Greatest Hits,16,3606,13,MusicMatchJukebox 4.35.0022,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15",,1994,Rock
+rock,9b08a10b,B2595A,James Brown,The Millenium Collection,11,2211,2,Media_Universe 3.0,"0,1,2,3,4,5,6,7,8,9,10",,1999,Rock
+rock,890da60c,EF25A4,Jane's Addiction,Strays,12,3496,3,ExactAudioCopy v0.95a3,"0,1,2,3,4,5,6,7,8,9,10",YEAR: 2003,2003,Rock
+rock,a40c410e,10D62A5,Jet,Get Born,14,3139,1,FreeRIP 2.53,"0,1,2,3,4,5,6,7,8,9,10,11,12",YEAR: 2003,2003,Rock
+rock,f411af11,22DAD5C,Jethro Tull,Aqualung,17,4529,6,FreeRIP 2.52,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",YEAR: 1996,1971,Rock
+rock,0e113c14,287FC9D,Jimi Hendrix,Experience Hendrix: The Best Of Jimi Hendrix,20,4414,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",,1997,Rock
+rock,8d0e410c,14A09DC,Jimmy Page And Robert Plant,Walking Into Clarksdale,12,3651,4,EasyCDDAExtractor 4.5.2.1,"0,1,2,3,4,5,6,7,8,9,10,11",,1998,Rock
+rock,7508d60a,ABBDF1,Joe Satriani,Surfing With The Alien,10,2264,4,ExactAudioCopy v0.90b4,"0,1,2,3,4,5,6,7,8,9",YEAR: 1999 ID3G: 47,1987,Rock
+rock,b012080c,1987D80,"Joe Satriani, Eric Johnson, Steve Vai",G3 Live In Concert,12,4618,0,,"0,1,2,3,4,5,6,7,8,9,10,11",,1997,Rock
+rock,8e0a570a,CA3116,Journey,Frontiers,10,2649,0,,"0,1,2,3,4,5,6,7,8,9",,,Rock
+rock,e90e5c0f,1B1CC7D,Journey,Journey's Greatest Hits,15,3678,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14",,1988,Rock
+rock,970c830d,10C562E,Kasabian,Kasabian,13,3205,0,dBpowerAMP V4.0,"0,1,2,3,4,5,6,7,8,9,10,11",,2004,Rock
+rock,9b0a940b,CD504B,Keane,Hopes And Fears,11,2710,2,Grip 3.1.10,"0,1,2,3,4,5,6,7,8,9,10",Code 85,2004,Rock
+rock,7f09f00b,DD5B4A,Kingdom Come,Hands Of Time,11,2546,1,DiscPlay 3.3.1,"0,1,2,3,4,5,6,7,8,9,10",,1991,Rock
+rock,9e08c50c,C82107,Kittie,Spit,12,2247,1,NotifyCDPlayer(CDDB) 1.51.3,"0,1,2,3,4,5,6,7,8,9,10,11",YEAR: 2000  ID3G:  17,,Rock
+rock,1.51E+23,15AB143,KoRn,Follow The Leader,25,4208,91,ExactAudioCopy v0.90a11,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24",YEAR: 1998 ID3G:  17,1998,Rock
+rock,1311d413,2A94019,KoRn,Greatest Hits Vol. 1,19,4566,1,ExactAudioCopy v0.90b4,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",,2004,Rock
+rock,c60c7c10,15FCA41,KoRn,Issues,16,3198,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15",,1999,Rock
+rock,a80f6f0c,11F3CE1,KoRn,KoRn,12,3953,0,,"0,1,2,3,4,5,6,7,8,9,10,11",,1994,Rock
+rock,c20db40f,10A15B4,KoRn,Life Is Peachy,15,3510,6,FreeRIP 1.21,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,1996,Rock
+rock,b40d520d,10D75A1,KoRn,Take A Look In The Mirror,13,3412,9,ExactAudioCopy v0.90b4,"0,1,2,3,4,5,6,7,8,9,10,11,12",YEAR: 2003,2003,Rock
+rock,b70f440f,1C4AE4A,KoRn,Untouchables,15,3910,1,audiograbber 1.81.01,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14",,2002,Rock
+rock,c1125b10,,KoRn,Untouchables,16,4701,6,ExactAudioCopy v0.95a4,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15",YEAR: 2002,2002,Rock
+rock,e411870e,191DBD1,Led Zeppelin,BBC Sessions - Disc 1,14,4489,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,,Rock
+rock,8412580a,13A33B8,Led Zeppelin,BBC Sessions - Disc 2,10,4698,0,,"0,1,2,3,4,5,6,7,8,9",,,Rock
+rock,60099608,937332,Led Zeppelin,Houses Of The Holy,8,2456,0,,"0,1,2,3,4,5,6,7",,1973,Rock
+rock,780d290a,DAD8ED,Led Zeppelin,How The West Was Won - Disc 1,10,3371,3,MusiCat 1.1,"0,1,2,3,4,5,6,7,8,9",2003,2003,Classic Rock
+rock,2d0c7604,585453,Led Zeppelin,How The West Was Won - Disc 2,4,3192,2,MusiCat 1.1,"0,1,2,3",2003,2003,Rock
+rock,39099404,51276A,Led Zeppelin,How The West Was Won - Disc 3,4,2454,2,MusiCat 1.1,"0,1,2,3",2003,2003,Rock
+rock,7e0a8209,AB272F,Led Zeppelin,I,9,2692,6,MusicMatchJukebox 4.40.0104,"0,1,2,3,4,5,6,7,8",,1969,Rock
+rock,6609c109,AFE7DE,Led Zeppelin,II,9,2500,0,,"0,1,2,3,4,5,6,7,8",,1969,Rock
+rock,730a130a,,Led Zeppelin,III,10,2581,0,ExactAudioCopy v0.95a4,"0,1,2,3,4,5,6,7,8,9",,1970,Rock
+rock,0f017e02,2.80E+08,Led Zeppelin,Immigrant Song (Single),2,384,1,DiscPlay 3.3.1,"0,1",,2002,Rock
+rock,4c09fb07,7A8911,Led Zeppelin,In Through The Out Door,7,2557,0,,"0,1,2,3,4,5,6",,1979,Rock
+rock,6509fd08,8E10D2,Led Zeppelin,IV,8,2559,0,,"0,1,2,3,4,5,6,7",,1971,Rock
+rock,4c092806,58A99D,Led Zeppelin,Physical Graffiti - Disc 1,6,2346,0,,"0,1,2,3,4,5",,1975,Rock
+rock,7c0a3b09,B92B1D,Led Zeppelin,Physical Graffiti - Disc 2,9,2621,0,,"0,1,2,3,4,5,6,7,8",,1975,Rock
+rock,cd0e9e0f,193D424,Lenny Kravitz,Greatest Hits,15,3744,2,QuintessentialCD v1.27,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14",,,Rock
+rock,ba119c0f,1A37269,Limp Bizkit,Chocolate St*rfish And The Hot Dog Flavored Water,15,4510,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14",,2000,Rock
+rock,02010f01,518A,Limp Bizkit,It's Like That Y'All (Single),1,273,7,QuintessentialCD v1.27,0,,,Rock
+rock,c90ebd10,1C5CD3E,Limp Bizkit,Significant Other,16,3775,44,MusicMatchJukebox 4.40.0109,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15",,1999,Rock
+rock,980e690d,12989A3,Limp Bizkit,Three Dollar Bill Yall$,13,3691,32,AudioCatalyst 2.10full,"0,1,2,3,4,5,6,7,8,9,10,11,12",,,Rock
+rock,8019102,39889,Linkin Park,Crawling (Single),2,403,0,,"0,1",Enhanced CD - Backstage Video Footage,2000,Rock
+rock,a808df0c,CC5A68,Linkin Park,Hybrid Theory,12,2273,17,MusicMatchJukebox 5.10.0149,"0,1,2,3,4,5,6,7,8,9,10,11",,2000,Rock
+rock,3805f807,46D474,Linkin Park,In The End (Japanese Single),7,1530,0,,"0,1,2,3,4,5,6",,2000,Rock
+rock,1b027e03,A3084,Linkin Park,In The End (Single),3,640,0,,"0,1,2",Enhanced CD - In The End Video,2001,Rock
+rock,b50aa80d,D92123,Linkin Park,Live In Texas,13,2730,2,CDex 1.50beta10,"0,1,2,3,4,5,6,7,8,9,10,11",YEAR: 2003,2003,Rock
+rock,9c104c0e,CC2DC0,Linkin Park,Meteora,14,4174,3,CDex 1.40Release,"0,1,2,3,4,5,6,7,8,9,10,11,12",YEAR: 2003 ID3G: 17,2003,Rock
+rock,13018702,37CC9,Linkin Park,Numb - Disc 2,2,393,1,DiscPlay 4.0.4,0,"There are actually 2 tracks on this CD, and a data portion that contains the music video for 'Faint'.",2003,Rock
+rock,14028903,92F28,Linkin Park,One Step Closer (Single),3,651,2,CDmax 1.7.6,"0,1,2",Enhanced CD - One Step Closer Video,2000,Rock
+rock,23024a03,92C66,Linkin Park,Papercut (Single),3,588,2,CDDB2_Bridge 1.0,"0,1,2",Enhanced CD - Papercut video.,2000,Rock
+rock,1d10ab15,20C51CD,Linkin Park,Reanimation,21,4269,4,dBpowerAMP V4.0,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",Linkin Park  Reanimation,2002,Rock
+rock,1.90E+206,A5B41,Linkin Park,Somewhere I Belong,3,740,1,MusicWizard 6.0.1,"0,1,2",YEAR: 2003,2003,Rock
+rock,5105f407,31807F,Linkin Park & Jay-Z,Collision Course,7,1526,2,CDex 1.51,"0,1,2,3,4,5",YEAR: 2004,2004,Rock
+rock,e80fdc10,20AA40E,Living Colour,Vivid (Reissue),16,4062,0,ExactAudioCopy v0.90b4,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15",Reissue in 2002.  Tracks 12 - 16 are exclusive to the 2002 release.,1988,Rock
+rock,8a09ea0c,DD0C0D,Lo-Pro,Lo-Pro,12,2540,1,Grip 3.0.5,"0,1,2,3,4,5,6,7,8,9,10,11",,2003,Rock
+rock,8608e70a,96FC38,Louis XIV,The Best Little Secrets Are Kept,10,2281,1,CDex 1.51,"0,1,2,3,4,5,6,7,8,9",YEAR: 2005,2005,Rock
+rock,c910eb0f,1FFC6DB,Love And Rockets,Sorted! The Best Of Love And Rockets,15,4333,0,dBpowerAMP V4.0,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14",,2003,Rock
+rock,92117d0c,107FCED,Machines Of Loving Grace,Concentration,12,4479,6,Gronk 1.0,"0,1,2,3,4,5,6,7,8,9,10,11","UPC: 035498005923\nLABEL: Mammoth\nENSORECORD: 144801\n© & ® 1993 Mammoth Records. All Rights Reserved.\nMammoth Records:\nThe Broad Street Building.\n101 B. Street\nCarrboro, NC 27510\nwww.mammoth.com\ninfo@mammoth.com",1993,Rock
+rock,870a140b,D3576F,Machines Of Loving Grace,Gilt,11,2582,4,Gronk 1.0,"0,1,2,3,4,5,6,7,8,9,10",,1995,Rock
+rock,79115509,E7F813,Massive Attack,100th Window,9,4439,1,CDmax 1.9,"0,1,2,3,4,5,6,7,8",YEAR: 2003,2003,Rock
+rock,630a9609,ACF707,Massive Attack,Blue Lines,9,2712,5,MusicMatchJukebox 5.00.0191,"0,1,2,3,4,5,6,7,8",,1991,Rock
+rock,920ef00b,1352006,Massive Attack,Mezzanine,11,3826,1,Sonic Foundry SIREN Jukebox,"0,1,2,3,4,5,6,7,8,9,10",,1998,Rock
+rock,aa0af90c,1000EBB,Matchbox 20,Yourself Or Someone Like You,12,2811,0,,"0,1,2,3,4,5,6,7,8,9,10,11",,,Rock
+rock,dd124b0e,1A07EBD,Matthew Good,Avalanche,14,4685,1,Kscd 1.3.3,"0,1,2,3,4,5,6,7,8,9,10,11,12",,2003,Rock
+rock,9b0cae0c,123DBEA,Mazzy Star,Among My Swan,12,3248,5,MusicMatchJukebox 5.00.0171,"0,1,2,3,4,5,6,7,8,9,10,11",,1996,Rock
+rock,950c1b0a,D92688,Mazzy Star,So Tonight That I Might See,10,3101,7,CDex 1.40Release,"0,1,2,3,4,5,6,7,8,9",YEAR: 1993 ID3G: 87,1993,Rock
+rock,7b0f5d09,108090A,Metallica,...And Justice For All,9,3935,0,,"0,1,2,3,4,5,6,7,8",,1988,Rock
+rock,ac0ead0c,156C1AB,Metallica,Metallica,12,3759,0,,"0,1,2,3,4,5,6,7,8,9,10,11",,,Rock
+rock,ed11c812,28F27BF,Midnight Oil,"20,000 Watt R.S.L.",18,4554,1,tcd 2.0b,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",,1997,Rock
+rock,f910bb12,24ECE09,Moby,18,18,4285,2,EasyCDDAExtractor 4.6.9.1,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",,2002,Techno
+rock,fc0ecf12,21DE7BB,Moby,Play,18,3793,1,EasyCDDAExtractor 5.0.7,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",,1999,Rock
+rock,d70b7210,1516095,Modest Mouse,Good News For People Who Love Bad News,16,2932,8,audiograbber 1.83.01,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15",YEAR: 2004,2004,Rock
+rock,7d0a940b,CA29AD,Motley Crue,Dr. Feelgood,11,2710,0,,"0,1,2,3,4,5,6,7,8,9,10",,,Rock
+rock,8a0d510b,B94231,MuDvAyNe,Beginning Of All Things To End,11,3411,3,EasyCDDAExtractor 4.6.0.1,"0,1,2,3,4,5,6,7,8,9,10",ID3G:   9,2001,Rock
+rock,e9101011,1EB8763,MuDvAyNe,LD.50,17,4114,3,FreeRIP 1.20,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",YEAR: 2001 ID3G: 79,2001,Rock
+rock,b00c3f0e,,Muse,Absolution,14,3137,11,ExactAudioCopy v0.95a4,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,2003,Rock
+rock,950ba60c,1139E7A,Muse,Showbiz,12,2984,8,CDex 1.40Beta3,"0,1,2,3,4,5,6,7,8,9,10,11",ID3G:  17,1999,Rock
+rock,d6120810,26B5ED9,Neil Young,Greatest Hits,16,4618,1,ExactAudioCopy v0.95a4,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15",,2004,Rock
+rock,880c2d0a,D1404F,Neil Young,Harvest Moon,10,3119,0,,"0,1,2,3,4,5,6,7,8,9",,1992,Rock
+rock,7b09320a,9FD639,Neil Young,Silver & Gold,10,2356,2,MusicMatchJukebox 4.30.0058,"0,1,2,3,4,5,6,7,8,9",,,Rock
+rock,8309300a,A94114,Nickelback,Silver Side Up,10,2354,3,VisiTrax 2.7.1.94,"0,1,2,3,4,5,6,7,8,9",,2001,Rock
+rock,cb0bec0e,1435FE3,Nickelback,The Long Road,14,3054,0,ExactAudioCopy v0.95a3,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,2003,Rock
+rock,6c0b6f0a,D6DC47,Nine Inch Nails,Pretty Hate Machine - Halo 02,10,2929,0,,"0,1,2,3,4,5,6,7,8,9",,1989,Rock
+rock,af09b00c,E64C6E,Nirvana,In Utero,12,2482,6,CDex 1.40Release,"0,1,2,3,4,5,6,7,8,9,10,11",,1993,Rock
+rock,a109fe0c,F432D0,Nirvana,Nevermind,12,2560,8,FreeRIP 2.00,"0,1,2,3,4,5,6,7,8,9,10,11",YEAR: 1991 ID3G:  17,1991,Rock
+rock,d90ba20e,1.38E+05,Nirvana,Nirvana,14,2980,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,2002,Rock
+rock,a80ca50e,157B7FD,Nirvana,Unplugged In New York,14,3239,7,CDDB2_Bridge 1.0,"0,1,2,3,4,5,6,7,8,9,10,11,12,13","MTV \n\nExecutive Producer: Joel Stillerman\n\nProduced by Alex Coletti\n\nDirected by Beth McCarthy\n\nMTV Unplugged series created by: Bob Small and Jim Burns\n\n\n\nSound\n\nA&R: Mark Kates\n\nManagement: Gold Mountain Entertainment\n\n\n\nThese People Made This Recording Much Easier:\n\nJanet Billig, Bethann Buddenbaum, John Cannelli, Rosemary Carroll, Alex Coletti, John Cutcliffe, Mike Dalke, Big John Duncan, Amy Finnerty, DannyGoldberg, Lee Johnson, Mark Kates, Rick Krim, Scott Litt, Alex MacLeod, Jeff Mason, Judy McGrath, Michael Meisel, Kelly Nase, Our Families, ShaunaO'Brien, John Silva, Cathryn Suko, Jim Vincent\n\n\n\nArt Direction/Design: Robert Fisher\n\nPhotography: Jennifer Youngblood-Grohl, Frank Micelotta",,Rock
+rock,fc0fa811,213EE2A,Ocean Colour Scene,Songs For The Front Row,17,4010,6,ExactAudioCopy v0.95a4,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",CIDZ8111 / 586 606-2 YEAR: 2001,2001,Rock
+rock,840a3d0d,CAC7EC,Offspring,Americana,13,2623,25,MusicMatchJukebox 5.10.0118,"0,1,2,3,4,5,6,7,8,9,10,11",,1998,Rock
+rock,b508d70d,CED0D3,Offspring,Conspiracy Of One,13,2265,0,,"0,1,2,3,4,5,6,7,8,9,10,11",,2000,Rock
+rock,b209f00e,F32F40,Offspring,Ixnay On The Hombre,14,2546,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,,Rock
+rock,be0af40e,FAA9BD,Offspring,Smash,14,2806,2,CDex 1.40Beta9,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",YEAR: 1994 ID3G: 121,1994,Rock
+rock,ac0dec0d,A82B58,Offspring,Splinter,13,3566,1,dBpowerAMP V4.0,"0,1,2,3,4,5,6,7,8,9,10,11",,2003,Rock
+rock,a40b4a0c,10050CA,Orgy,Candyass,12,2892,0,,"0,1,2,3,4,5,6,7,8,9,10,11",DISC: 1\nUPC: 093624692324\nLABEL: Elementree\nENSORECORD: 177710,,Rock
+rock,6708cf09,977C9B,Orgy,Punk Statik Paranoia,9,2257,1,EasyCDDAExtractor 6.5.9.5,"0,1,2,3,4,5,6,7,8",,2004,Rock
+rock,a70cab0d,10598D7,Orgy,Vapor Transmission,13,3245,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12",,2000,Rock
+rock,66094509,9DF12F,Ozzy Osbourne,Blizzard Of Ozz,9,2375,23,CDDB2_Bridge 1.0,"0,1,2,3,4,5,6,7,8",,1981,Rock
+rock,f3124810,23DDBF9,Ozzy Osbourne,The Essential Ozzy Osbourne - Disc 1,16,4682,2,dBpowerAMP V4.0,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15","There was a mistake before, it said Ozzy Ozbourse, but it is Ozzy Osbourne",2003,Rock
+rock,a510440d,19C5AA7,Ozzy Osbourne,The Essential Ozzy Osbourne - Disc 2,13,4166,1,FreeRIP 2.21,"0,1,2,3,4,5,6,7,8,9,10,11,12",YEAR: 2003 ID3G: 79,2003,Rock
+rock,ae09ac0e,1.15E+57,P J Harvey,Uh Huh Her,14,2478,2,dBpowerAMP V4.0,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,2004,Rock
+rock,ca10b410,1EF356F,Pearl Jam,"30-5-00, Wembley Arena, London England, Side A",16,4278,1,SoundJam 2.0,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15",,2001,Rock
+rock,7b0b810a,CAB504,Pearl Jam,"30-5-00, Wembley Arena, London England, Side B",10,2947,1,audiograbber 1.70,"0,1,2,3,4,5,6,7,8,9",,2001,Rock
+rock,b80c340d,11967FA,Pearl Jam,Binaural,13,3126,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12",,2000,Rock
+rock,06019f02,3A3EC,Pearl Jam,I Am Mine (Single),2,417,1,CDmax 1.9,"0,1",,2002,Rock
+rock,12028c02,4F85C,Pearl Jam,Merkinball (Single),2,654,0,,"0,1",,,Rock
+rock,b70ba10d,1223115,Pearl Jam,No Code,13,2979,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12",,,Rock
+rock,0711d611,269B602,Pearl Jam,Rearviewmirror (Greatest Hits 1991-2003) Down Side - Disc 2,17,4568,2,ExactAudioCopy v0.90b4,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",,2004,Rock
+rock,ed0fc110,1F7A670,Pearl Jam,Rearviewmirror (Greatest Hits 1991-2003) Up Side - Disc 1,16,4035,1,ExactAudioCopy v0.95a4,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15",,2004,Rock
+rock,c70cb70f,184A0C6,Pearl Jam,Riot Act,15,3257,1,CDmax 1.9,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14","Released November 12, 2002\nEpic: EK86825",2002,Rock
+rock,820c840b,F4401E,Pearl Jam,Ten,11,3206,78,MusicMatchJukebox 5.10.0131,"0,1,2,3,4,5,6,7,8,9,10",,,Rock
+rock,ce0d020e,141DAA3,Pearl Jam,Vitalogy,14,3332,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,,Rock
+rock,950ad90c,F0D57A,Pearl Jam,Vs.,12,2779,72,HACP 1.17,"0,1,2,3,4,5,6,7,8,9,10,11",YEAR: 1993,1993,Grunge
+rock,0e01c302,3BF52,Pearl Jam,Who You Are (Single),2,453,0,,"0,1",,,Rock
+rock,950b630d,10F0C3C,Pearl Jam,Yield,13,2917,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12",,1998,Rock
+rock,fa122510,,Peter Gabriel,Shaking The Tree,16,4647,6,ExactAudioCopy v0.95a4,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15",Subtitled: Sixteen Golden Greats\nYEAR: 2002,2002,Rock
+rock,f0116210,218CD09,Phil Collins,...Hits,16,4452,16,MusicMatchJukebox 5.10.0144,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15",,1998,Rock
+rock,ba0bf30e,14D5200,Phish,Undermind,14,3061,0,ExactAudioCopy v0.95a5,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,2004,Rock
+rock,4a0b7c07,95BC8D,Pink Floyd,Delicate Sound Of Thunder - Disc 1,7,2942,0,,"0,1,2,3,4,5,6",,1988,Rock
+rock,740cf108,B0A7FD,Pink Floyd,Delicate Sound Of Thunder - Disc 2,8,3315,10,Axialis_AX_CDPlayer 2.5,"0,1,2,3,4,5,6,7",,1988,Rock
+rock,710a1109,B40887,Pink Floyd,The Dark Side Of The Moon,9,2579,0,,"0,1,2,3,4,5,6,7,8",,,Rock
+rock,a809390d,F493CA,Pink Floyd,The Wall - Anniversary Edition - Disc 1,13,2363,21,MusicMatchJukebox 5.10.0149,"0,1,2,3,4,5,6,7,8,9,10,11,12",,,Rock
+rock,8f09dc0d,FD6002,Pink Floyd,The Wall - Anniversary Edition - Disc 2,13,2526,19,VisiTrax 2.1.0.26,"0,1,2,3,4,5,6,7,8,9,10,11,12",,,Rock
+rock,c307dd0e,DBCFBB,Pixies,Surfer Rosa,14,2015,1,xmcd 2.0,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,1988,Rock
+rock,800aa80b,DFE72C,Powderfinger,Odyssey Number Five,11,2730,2,EZCDDA 0.1,"0,1,2,3,4,5,6,7,8,9,10",,2000,Rock
+rock,830a680b,CCC3FB,Powderfinger,Vulture Street,11,2666,2,ExactAudioCopy v0.90b4,"0,1,2,3,4,5,6,7,8,9,10",YEAR: 2003\nUS Release: 2004,2003,Rock
+rock,b70ed30d,137789E,Primus,Antipop,13,3797,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12",,,Rock
+rock,c00d5d0f,18969C6,Primus,Brown Album,15,3423,3,Axialis_AX_CDPlayer 2.1.003,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14",,,Rock
+rock,bf0d860f,,Primus,Pork Soda,15,3464,2,ExactAudioCopy v0.95a4,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14",,1993,Rock
+rock,6d0b4c09,A72503,Primus,Rhinoplasty,9,2894,0,,"0,1,2,3,4,5,6,7,8",,,Rock
+rock,b60ab90d,F0568F,Primus,Sailing The Seas Of Cheese,13,2747,0,,"0,1,2,3,4,5,6,8,9,10,11,12",,,Rock
+rock,d50cad0d,25EBD1F,Primus,Tales From The Punchbowl,13,4438,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12",,1996,Rock
+rock,7c0b4b0b,E8BF2A,Puddle Of Mudd,Come Clean,11,2893,4,CDex 1.40Beta8,"0,1,2,3,4,5,6,7,8,9,10",YEAR: 2001 ID3G: 6,2001,Rock
+rock,a40fd20d,,Puddle Of Mudd,Life On Display,13,4052,1,ExactAudioCopy v0.95a4,"0,1,2,3,4,5,6,7,8,9,10,11,12",,2003,Rock
+rock,0411f211,23CB34D,Pulp,Hits,17,4596,3,CDCOPY 4.900,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",,2002,Rock
+rock,d10def0e,17AA7D5,Queens Of The Stone Age,Songs For The Deaf,14,3662,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,2002,Rock
+rock,950edb0b,12F5120,Queensrÿche,Empire,11,3805,0,,"0,1,2,3,4,5,6,7,8,9,10",,1990,Rock
+rock,d20de20f,18CA9A7,Queensrÿche,Operation: Mindcrime,15,3556,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14",,1988,Rock
+rock,970b740c,1094D27,R.E.M.,Automatic For The People,12,2934,20,CDmax 1.7.5,"0,1,2,3,4,5,6,7,8,9,10,11",,,Rock
+rock,7509560b,B62DE7,R.E.M.,Document,11,2392,9,Axialis_AX_CDPlayer 2.5,"0,1,2,3,4,5,6,7,8,9,10",,,Rock
+rock,850a1c0c,E94F8E,R.E.M.,Eponymous,12,2590,0,,"0,1,2,3,4,5,6,7,8,9,10,11",,,Rock
+rock,930b8c0c,1035AD0,R.E.M.,Monster,12,2958,0,,"0,1,2,3,4,5,6,7,8,9,10,11",,,Rock
+rock,820a4b0b,DDF533,Radiohead,Amnesiac,11,2637,2,EZCDDA 0.1,"0,1,2,3,4,5,6,7,8,9,10",,,Rock
+rock,980bb70a,D61770,Radiohead,Kid A,10,3001,9,MusicMatchJukebox 5.10.0144,"0,1,2,3,4,5,6,7,8,9",,,Rock
+rock,7d09e20b,B88CDF,Ratt,Detonator,11,2532,0,,"0,1,2,3,4,5,6,7,8,9,10",,,Rock
+rock,e7101e10,1F5D9AC,Red Hot Chili Peppers,By The Way,16,4128,7,CDex 1.40Release,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15",YEAR: 2002 ID3G: 17,2002,Rock
+rock,d60d380f,1994CDC,Red Hot Chili Peppers,Californication,15,3386,2,CDex 1.50Beta7,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14",YEAR: 1999,1999,Rock
+rock,bc0e3a0e,17B56E7,REO Speedwagon,The Hits,14,3644,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,,Rock
+rock,f9113013,2AE6C4F,Rob Zombie,"Past, Present & Future",19,4402,3,CDex 1.50,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",YEAR: 2003,2003,Rock
+rock,82094c0b,9DE9B2,Rob Zombie,The Sinister Urge,11,2382,12,ExactAudioCopy v0.90b4,"0,1,2,3,4,5,6,7,8,9,10",,2001,Rock
+rock,78091f0a,,Robert Palmer,The Best Of Robert Palmer The Millennium Collection,10,2337,1,ExactAudioCopy v0.95a4,"0,1,2,3,4,5,6,7,8,9",,1999,Rock
+rock,2.51E+18,2EE9AC3,Rolling Stones,Forty Licks - Disc 1,20,4656,17,ExactAudioCopy v0.95a3,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",,2002,Rock
+rock,10125c14,,Rolling Stones,Forty Licks - Disc 2,20,4702,55,ExactAudioCopy v0.95a4,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",TITLE: Forty Licks\nARTIST: The Rolling Stones\nCOPYRIGHT: 2002\nPRODUCER: 2002\nUPC: 0724381337820\nDATE: 2002-10-01 YEAR: 2002,2002,Rock
+rock,4f091c06,889AB6,Rush,2112 (The Rush Remasters),6,2334,6,CDmax 1.7.5,"0,1,2,3,4,5",,1976,Rock
+rock,4608bb06,5BBEBD,Rush,A Farewell To Kings (The Rush Remasters),6,2237,0,,"0,1,2,3,4,5",,1977,Rock
+rock,e211750f,1F6005D,Rush,A Show Of Hands,15,4471,6,PowerPlay 1.31b,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14",,1989,Rock
+rock,9a12ad0a,12631CB,Rush,All The World's A Stage (The Rush Remasters),10,4783,2,NotifyCDPlayer(CDDB) 1.51.2,"0,1,2,3,4,5,6,7,8,9",remastered,1976,Rock
+rock,380a9305,3171B0,Rush,Caress Of Steel,5,2709,0,,"0,1,2,3,4",,1975,Rock
+rock,c0118b0e,1D1A912,Rush,Chronicles - Disc 1,14,4493,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,1990,Rock
+rock,db104e0e,1B78809,Rush,Chronicles - Disc 2,14,4176,12,AudioCatalyst 2.10full,"0,1,2,3,4,5,6,7,8,9,10,11,12,13","Mercury, 1990",1990,Rock
+rock,a70cc00b,1125CB7,Rush,Counterparts,11,3266,4,CDmax 1.5.4,"0,1,2,3,4,5,6,7,8,9,10",,1993,Rock
+rock,fd109e10,26562B3,Rush,Different Stages - Disc 1,16,4256,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15",This is an EnhancedCD®,1998,Rock
+rock,a710390c,17514D7,Rush,Different Stages - Disc 2,12,4155,0,,"0,1,2,3,4,5,6,7,8,9,10,11",,1998,Rock
+rock,990eac0b,15D3D44,Rush,Different Stages - Disc 3,11,3758,3,KiC 2.2.05,"0,1,2,3,4,5,6,7,8,9,10","This is a live show recorded\nat the Hammersmith Odeon,\nLondon - February 20, 1978",1998,Rock
+rock,b012040d,1A54A51,Rush,Exit Stage Left,13,4614,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12",,1981,Rock
+rock,54065f08,5D183F,Rush,Feedback,8,1633,4,CDex 1.51,"0,1,2,3,4,5,6,7",YEAR: 2004,2004,Rock
+rock,7.51E+111,7993AC,Rush,Fly By Night (The Rush Remasters),8,2275,0,,"0,1,2,3,4,5,6,7",,1975,Rock
+rock,25047904,1D3D6D,Rush,Ghost Of A Chance (CD Single),4,1147,0,,"0,1,2,3",,1992,Rock
+rock,7.21E+12,870940,Rush,Grace Under Pressure (The Rush Remasters),8,2384,0,,"0,1,2,3,4,5,6,7",,1984,Rock
+rock,2d087c04,416966,Rush,Hemispheres,4,2174,0,,"0,1,2,3",,1978,Rock
+rock,8f0bd60a,DE655C,Rush,Hold Your Fire,10,3032,0,,"0,1,2,3,4,5,6,7,8,9",,1987,Rock
+rock,51096207,71B1BC,Rush,Moving Pictures,7,2404,0,,"0,1,2,3,4,5,6",,1981,Rock
+rock,38085906,50864D,Rush,Permanent Waves (The Rush Remasters),6,2139,6,ExactAudioCopy v0.90b3,"0,1,2,3,4,5",YEAR: 1980 ID3G:  17,1980,Rock
+rock,5f0a7908,97FBEE,Rush,Power Windows,8,2683,0,,"0,1,2,3,4,5,6,7",,1985,Rock
+rock,950c400b,1062F93,Rush,Presto,11,3138,3,NotifyCDPlayer(CDDB) 1.51.3,"0,1,2,3,4,5,6,7,8,9,10","© 1989 Atlantic Recording Corporation and Anthem Entertainment\n\nMusic by Lee and Lifeson\nLyrics by Peart\n\nProduced by Rupert Hine and Rush\nEngineered by Stephen W. Taylor\nArrangements by Rush and Rupert Hine\n\nRecorded June - August 1989\nLe Studio, Moring Heeights, asisted by SimonPressey and Jacques Deveau\nMcClear Place, Toronton, assisted by Rick Anderson\nMixed September 1989 at Metropolis, London, assisted by Matt Howe\n\nAdditional keyboards by Rupert Howe and Jason Sniderman\nAdditionalbackground vocals by Rupert Hine\nPreproduction work at Chalet Studio, engineered by Lerxst, assisted by Everett Ravenstein\nTechnical support from Liam Birt, Jack Secret, Jim Johnson, Larry Allen, and Jim Burgess, with continuing thanks to Herns, Skip, Nick, Whitey, Schatzie... and therest.\n\nMastered by Bob Ludwig, Masterdisk NYC\n\nBrought to you by theletter 'D'\n\nWe appreciate technical contributions from Saved By Technology, Wal Basses, Signature Guitars, Ludwig Drums, Avedis Zildjian Cymbals, Solid Percussion, and - The Omega Concern",1989,Rock
+rock,bc11c30e,1F5A49A,Rush,Retrospective I: 1974-1980,14,4549,3,PowerPlay 1.31b,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,1997,Rock
+rock,d6120f0f,234803D,Rush,Retrospective II: 1981-1987,15,4625,20,NotifyCDPlayer(CDDB) 1.51.3,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14",,1997,Rock
+rock,9d0b440a,D0FBF1,Rush,Roll The Bones,10,2886,4,xmcd 2.5 PL1,"0,1,2,3,4,5,6,7,8,9","Copyright 1991 Atlantic Recording Corporation\nProduced byRupert Hine and RUSH\nGeddy Lee: Bass Guitar, Vocals, Synthesizers\nAlex Lifeson: Electric and Acoustic Guitars, Backing Vocals\nNeil Peart: Drums and Cymbals",1991,Rock
+rock,64097208,7DE8E6,Rush,Rush,8,2420,0,,"0,1,2,3,4,5,6,7",,1974,Rock
+rock,b9109a0d,1940E9D,Rush,Rush In Rio - Disc 1,13,4252,2,Kscd 1.3.3,"0,1,2,3,4,5,6,7,8,9,10,11,12",,2003,Rock
+rock,7d0ddc0a,FF140F,Rush,Rush In Rio - Disc 2,10,3550,0,jack 2.99.9,"0,1,2,3,4,5,6,7,8,9",,2003,Rock
+rock,570a3008,A0EAEB,Rush,Rush In Rio - Disc 3,8,2610,1,EasyCDDAExtractor 5.0.6,"0,1,2,3,4,5,6,7",,2003,Rock
+rock,5f09fa08,92ECFB,Rush,Signals (The Rush Remasters),8,2556,3,NotifyCDPlayer(CDDB) 1.51.3,"0,1,2,3,4,5,6,7","© 1982 Anthem Entertainment / Mercury Records 314 534 633-2\n\nGEDDY LEE: Bass Guitars, synthesizers, vocals, Pitcher\nALEX LIFESON:  Electric and Acoustic Guitars, Taurus pedals, First Base\nNEIL PEART: Drums and percussion, Third Base\n\nProduced by Rush and Terry Brown, Left Field\nArrangements by Rush and Terry Brown\nRecorded and Mixed at Le Studio, April, May, Jun and July 1982\nEngineered by Paul Northfield, Centre Field (a regular Albert One-Stone)\nAssisted by Robbie Whelan Right Field\nDigitallymastered by JVC\nMastered by Bob Ludwig and Brian Lee at Gateway Mastering Studios, Portland ME\nSpecial guest performance by Ben Mink, electric violins on Losing It, appears\ncourtesy of FM",1982,Rock
+rock,a40c8b0b,107B658,Rush,Test For Echo,11,3213,0,,"0,1,2,3,4,5,6,7,8,9,10",,1996,Rock
+rock,e312b910,255B0FE,Rush,The Spirit Of Radio - Greatest Hits 1974 - 1987,16,4795,1,CDex 1.50Beta7,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15",YEAR: 2003,2003,Rock
+rock,b00fc70d,190389A,Rush,Vapor Trails,13,4041,6,audiograbber 1.81.02,"0,1,2,3,4,5,6,7,8,9,10,11,12",YEAR: 2002 ID3G: 118,2002,Rock
+rock,bc0fe00d,1925C7D,Rush,Vapor Trails (Bootleg),13,4066,2,CDmax 1.9,"0,1,2,3,4,5,6,7,8,9,10,11,12",This CD was made from MP3's downloaded prior to the CD's May 14th release.,2002,Rock
+rock,960b720c,1077B4C,Saliva,Back Into Your System,12,2932,1,CDmax 1.9,"0,1,2,3,4,5,6,7,8,9,10",This is an 'Enhanced CD'.,2002,Rock
+rock,9d0bf40c,1095BCE,Saliva,Every Six Seconds,12,3062,1,AudioCatalyst 2.10full,"0,1,2,3,4,5,6,7,8,9,10,11",In Stores 3-27-01,,Rock
+rock,cf0bfe0e,163A00E,Saliva,Survival Of The Sickest,14,3072,2,dBpowerAMP V4.0,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,2004,Rock
+rock,ab0a110b,AD2D02,Sarah McLachlan,Afterglow,11,2579,1,CDmax 2.0,"0,1,2,3,4,5,6,7,8,9",YEAR: 2003,2003,Rock
+rock,8f0ce40c,11659AB,Sarah McLachlan,Fumbling Towards Ecstasy,12,3302,5,DiscPlay 4.0.4,"0,1,2,3,4,5,6,7,8,9,10,11",,,Rock
+rock,d1117e0f,1A01A39,Sarah McLachlan,Mirrorball,15,4480,9,libkcddb 0.10,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,1999,Rock
+rock,7209af0a,BD35F3,Sarah McLachlan,Surfacing,10,2481,64,CDmax 1.7.6,"0,1,2,3,4,5,6,7,8,9",,,Rock
+rock,820a140b,D44340,Scissor Sisters,Scissor Sisters,11,2582,0,CD-Transfer v1.0,"0,1,2,3,4,5,6,7,8,9,10",,2004,Rock
+rock,ad0cea0c,12D117D,Scorpions,Best Of Rockers 'N' Ballads,12,3308,0,,"0,1,2,3,4,5,6,7,8,9,10,11",,1989,Rock
+rock,8b0c770b,1086A6E,Scorpions,Crazy World,11,3193,0,,"0,1,2,3,4,5,6,7,8,9,10",,,Rock
+rock,7b08d309,8DFA32,Scorpions,Savage Amusement,9,2261,0,,"0,1,2,3,4,5,6,7,8",,1988,Rock
+rock,930a910c,EF9C56,Seether,Disclaimer,12,2707,0,,"0,1,2,3,4,5,6,7,8,9,10,11",,2002,Rock
+rock,c20e460e,1759332,Seether,Karma And Effect,14,3656,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,2005,Rock
+rock,a30d110d,14F5BE5,Sevendust,Animosity,13,3347,1,AudioCatalyst 2.10full,"0,1,2,3,4,5,6,7,8,9,10,11,12",,2001,Rock
+rock,0e026402,5C77C,Sevendust,Animosity Live CD,2,614,0,,"0,1","Recorded Live On Oct. 4th, 2001 at the Florida Theatre, Gainsville, FL",,Rock
+rock,9c09a30d,FC3CCA,Sevendust,Home,13,2469,1,CDmax 1.7.6,"0,1,2,3,4,5,6,7,8,9,10,11,12",,,Rock
+rock,9c0a4d0c,E81BAA,Sevendust,Seasons,12,2639,1,EasyCDDAExtractor 5.0.6,"0,1,2,3,4,5,6,7,8,9,10,11",,2003,Rock
+rock,920b5f0b,E965FE,Sevendust,Sevendust,11,2913,9,CDex 1.50beta10,"0,1,2,3,4,5,6,7,8,9,10",YEAR: 1997,1997,Rock
+rock,d00ea90f,,Sevendust,Southside Double-Wide Accoustic Live,15,3755,-1,ExactAudioCopy v0.95a4,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14",,2004,Hard Rock
+rock,a309180c,CF3210,Sex Pistols,Never Mind The Bollocks Here's The Sex Pistols,12,2330,11,ExactAudioCopy v0.95a5,"0,1,2,3,4,5,6,7,8,9,10,11",Warner Brothers W2 3147 YEAR: 1977 ID3G: 121,1977,Rock
+rock,60094e0b,B700D3,Skid Row,Skid Row,11,2384,10,CDex 1.30Release,"0,1,2,3,4,5,6,7,8,9,10","Skid Row:\nDave 'The Snake' Sabo - Guitars\nRachel Bolan - Bass\nSebastian Bach - Lead & Backing Vocals \nRob Affuso - Drums\nScotti Hill - Guitars & Backing Vocals\n\nRecorded at Royal Recorders, Lake Geneva, Wisconsin.\nAdditional engineering: Dave Kent.\nMastered at Sterling Sound, NYC.\nA&R: Jason Flom & Dorothy Sicignamo.\n\nFront cover photography: David Michael Kennedy.\nBack cover photography: Mark Weiss.\nSet design: Danny Snchez.\nLogo design: nLogo design: Gina Guarini.\nArt direction: Bob Defrin.\n\n@1989 Atlantic Records\n\nYEAR: 1989 ID3G:  17",1989,Heavy Metal
+rock,790adc0a,D2EF04,Smashing Pumpkins,Gish,10,2782,2929,QuintessentialCD v1.27,"0,1,2,3,4,5,6,7,8,9",,1991,Rock
+rock,ca11310f,1F4A6E2,Smashing Pumpkins,Machina - The Machines Of God,15,4403,35,tcd 2.0b,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14","Produced by Flood and Billy Corgan\nYEAR: 2000 ID3G: 17\nwww.smashingpumpkins.com\nwww.virginrecords.com\n© & ® 2000 Virgin Records America, Inc.and Smashing Pumpkins. All rights reserved.\nVirgin Records Of America, Inc\n338 N. Foothill Road\nBeverly Hills, CA 90210",2000,Rock
+rock,a20d920e,14F6C85,Smashing Pumpkins,Mellon Collie & The Infinite Sadness - Dawn To Dusk,14,3476,27,CDmax 1.7.5,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,1995,Rock
+rock,c50efc0e,196F92A,Smashing Pumpkins,Mellon Collie & The Infinite Sadness - Twilight ToStarlight,14,3838,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,,Rock
+rock,b90e970d,1730DAC,Smashing Pumpkins,Siamese Dream,13,3737,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12",,,Rock
+rock,d40c8b0f,157C064,Snot,Strait Up With Various Artists,15,3213,2,CDmax 1.8,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14",,2000,Rock
+rock,fd128e11,2797A7B,Soundgarden,A-Sides,17,4752,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",,,Rock
+rock,eb0f7410,1F2CB2B,Soundgarden,Down On The Upside,16,3958,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15",,,Rock
+rock,1a02a503,A3836,Spacehog,Carry On (Single),3,679,0,,"0,1,2",,,Rock
+rock,a108b60b,B2568D,SpineShank,The Height Of Callousness,11,2232,1,AudioCatalyst 2.10full,"0,1,2,3,4,5,6,7,8,9,10",,,Rock
+rock,28038c04,16583E,Sponge,Molly (16 Candles Down The Drain) (Single),4,910,0,,"0,1,2,3",,,Rock
+rock,9b0b290b,EC4ACB,Sponge,New Pop Sunday,11,2859,4,CDmax 1.9,"0,1,2,3,4,5,6,7,8,9,10",,1999,Rock
+rock,0200c501,3BE1,Sponge,Plowed (Single),1,199,0,,0,,,Rock
+rock,850ca00b,1016131,Sponge,Rotting Pinata,11,3234,0,,"0,1,2,3,4,5,6,7,8,9,10",,1994,Rock
+rock,720a150a,ABB239,Sponge,Wax Ecstatic,10,2583,11,ExactAudioCopy v0.90b4,"0,1,2,3,4,5,6,7,8,9",YEAR: 1996 ID3G:  17,1996,Rock
+rock,7f0aec0a,C8CE75,Stabbing Westward,Wither Blister Burn + Peel,10,2798,0,,"0,1,2,3,4,5,6,7,8,9",,,Rock
+rock,cb0f810f,17D499B,Staind,14 Shades Of Grey,15,3971,2,CDex 1.40Release,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",YEAR: 2003 ID3G: 17,2003,Rock
+rock,a80d050e,15C3FC7,Staind,Break The Cycle,14,3335,1,CDmax 1.7.6,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,,Rock
+rock,bb0bd80d,1273ABD,Staind,Break The Cycle (Bootleg),13,3034,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12",,2001,Rock
+rock,9f0be30c,1115165,Staind,Chapter V,12,3045,0,EasyCDDAExtractor 8.1.0.1,"0,1,2,3,4,5,6,7,8,9,10,11",,2005,Rock
+rock,750d2c09,970F16,Staind,Dysfunction,9,3374,32,MusicMatchJukebox 5.10.1052,"0,1,2,3,4,5,6,7,8",,1999,Rock
+rock,8b0a0f0c,C40AB7,Static-X,Machine,12,2577,8,Grip 3.0.1,"0,1,2,3,4,5,6,7,8,9,10,11",YEAR: 2001 ID3G: 9,2001,Metal
+rock,90093d0d,E01313,Static-X,Shadow Zone,13,2367,0,CDex 1.50,"0,1,2,3,4,5,6,7,8,9,10,11,12",YEAR: 2003,2003,Rock
+rock,9f0b440d,E830AD,Static-X,Start A War,13,2886,0,FreeRIP 2.941,"0,1,2,3,4,5,6,7,8,9,10,11,12",Nick,2005,Rock
+rock,8608d90a,A51D24,Steppenwolf,The Best Of Steppenwolf,10,2267,1,MediaSauce 2.1,"0,1,2,3,4,5,6,7,8,9",,1999,Rock
+rock,a20a310b,E65200,Stereophonics,Language. Sex. Violence. Other?,11,2611,2,FreeRIP 2.93,"0,1,2,3,4,5,6,7,8,9,10",MckOwdLarrd,2005,Rock
+rock,cf0c7f0e,15B5AAC,Steve Vai,Passion And Warfare,14,3201,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,,Rock
+rock,8809db0a,B8074A,Stevie Nicks,Bella Donna,10,2525,9,Axialis_AX_CDPlayer 2.6,"0,1,2,3,4,5,6,7,8,9","LABEL = Modern Records, Inc.\nID = 38139-2\nUPC = 07567-90427-29\nCOPYRIGHT = 1981 YEAR: 1981 ID3G:  17",1981,Rock
+rock,49058206,375EC4,Stillwater,Stillwater,6,1412,2,CDex 1.50,"0,1,2,3,4,5",YEAR: 2001,2000,Rock
+rock,bb0ced0c,1428B7E,Sting,...Nothing Like The Sun,12,3311,25,FreeRIP 2.60,"0,1,2,3,4,5,6,7,8,9,10,11","s\nRené Gayer : Backing Vocals\nSting : Vocals, Basses\n\nAll songs written & arranged by Sting YEAR: 1987",1987,Rock
+rock,980b760a,DAF937,Sting,Brand New Day,10,2936,5,Kscd 1.2.7,"0,1,2,3,4,5,6,7,8,9",,1999,Rock
+rock,c30fa30e,1B8A928,Sting,Fields Of Gold - The Very Best Of Sting 1984-1994,14,4005,3,CDValet v3.31,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",Released: November 1994,1994,Rock
+rock,790b4f0a,E52DF8,Sting,Mercury Falling,10,2897,0,,"0,1,2,3,4,5,6,7,8,9",,1996,Rock
+rock,b90d190b,11289A2,Sting,Sacred Love,11,3355,2,ExactAudioCopy v0.95a3,"0,1,2,3,4,5,6,7,8,9,10",YEAR: 2003,2003,Rock
+rock,5e083907,,Sting,Still Be Love In The World,7,2107,1,ExactAudioCopy v0.95a4,"0,1,2,3,4,5,6",,,Rock
+rock,990b660b,E96C31,Sting,Ten Summoner's Tales,11,2920,14,MusicMatchJukebox 4.30.0058,"0,1,2,3,4,5,6,7,8,9,10",,1993,Rock
+rock,950c910c,112418D,Stone Temple Pilots,Core,12,3219,0,,"0,1,2,3,4,5,6,7,8,9,10,11",,1992,Rock
+rock,850b040b,D05EF9,Stone Temple Pilots,Purple,11,2822,19,Kscd 1.2.7,"0,1,2,3,4,5,6,7,8,9,10",,,Rock
+rock,a309d10c,D46463,Stone Temple Pilots,Tiny Music...Songs From The Vatican Gift Shop,12,2515,0,,"0,1,2,3,4,5,6,7,8,9,10,11",,,Rock
+rock,b007950d,B28940,Sum 41,"All Killer, No Filler",13,1943,1,MusicMatchJukebox 4.35.0022,"0,1,2,3,4,5,6,7,8,9,10,11,12",,,Rock
+rock,fd0f8512,1DB8827,Swollen Members,Bad Dreams,18,3975,0,CDex 1.40Beta9,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",YEAR: 2001 ID3G: 7,2001,Hip-hop
+rock,11101812,2312353,Swollen Members,Balance,18,4122,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",,1999,Rock
+rock,af0d840e,12C8561,Swollen Members,Heavy,14,3462,0,CDex 1.40Beta9,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",YEAR: 2003 ID3G: 7,2003,Hip-hop
+rock,170d3114,20D5F65,Swollen Members,Monsters In The Closet,20,3379,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",,2002,Rock
+rock,8f087b0b,A1113A,System Of A Down,Mezmerize,11,2173,7,ExactAudioCopy v0.95a4,"0,1,2,3,4,5,6,7,8,9,10",,2005,Rock
+rock,de0a3310,12EF0EB,System Of A Down,Steal This Album!,16,2613,14,ExactAudioCopy v0.90b4,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15",,2002,Rock
+rock,a509890d,E4215D,System Of A Down,System Of A Down,13,2443,7,MusicMatchJukebox 5.10.0144,"0,1,2,3,4,5,6,7,8,9,10,11,12",,,Rock
+rock,b30a560e,1007A53,System Of A Down,Toxicity,14,2648,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,,Rock
+rock,ac0d860d,155ACD3,Systematic,Somewhere In Between,13,3464,2,CDDB2_Bridge 1.0,"0,1,2,3,4,5,6,7,8,9,10,11,12",,,Rock
+rock,a80f840c,CA1124,t.A.T.u.,200 KM/H In The Wrong Lane,12,3974,2,CDmax 2.0,"0,1,2,3,4,5,6,7,8,9,10",,2002,Rock
+rock,8021202,3BE69,t.A.T.u.,All The Things She Said,2,532,0,,"0,1",From the forthcoming Interscope album '200 Km/H In The Wrong Lane',2002,Rock
+rock,9a0a320c,EA9419,Taproot,Gift,12,2612,5,MusicMatchJukebox 4.40.0122,"0,1,2,3,4,5,6,7,8,9,10",,2000,Rock
+rock,940af30c,F94F4F,Taproot,Welcome,12,2805,0,,"0,1,2,3,4,5,6,7,8,9,10,11",,2002,Rock
+rock,8a0be50c,10399C7,Taty,200 Po Vstriechnoi,12,3047,0,,"0,1,2,3,4,5,6,7,8,9,10,11",This is the Russian language CD.,2002,Rock
+rock,ea0db510,,Team Sleep,Team Sleep,16,3511,0,ExactAudioCopy v0.95a5,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15",,2005,Hard Rock
+rock,6009cf08,96730E,Tears For Fears,Songs From The Big Chair,8,2513,31,ExactAudioCopy v0.90a9,"0,1,2,3,4,5,6,7",YEAR: 1985 ID3G: 13,1985,Rock
+rock,ae0e3a0e,DB1CF3,Tegan And Sara,If It Was You,14,3644,1,EasyCDDAExtractor 5.1.0,"0,1,2,3,4,5,6,7,8,9,10,11,12",,2003,Rock
+rock,f30d910f,11DC99E,Tegan And Sara,So Jealous,15,3475,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,2004,Rock
+rock,d411950f,1EF6C18,Tesla,Time's Makin' Changes - The Best Of Telsa,15,4503,4,AudioCatalyst 2.10full,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14",,,Rock
+rock,7c128c1b,385AD2C,The Beatles,One,27,4750,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26",,2000,Rock
+rock,0409f412,1554957,The Beatles,Past Masters Volume One,18,2550,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",,,Rock
+rock,9e0bc80d,12571D5,The Cars,The Cars' Greatest Hits,13,3018,7,CDmax 1.7.5,"0,1,2,3,4,5,6,7,8,9,10,11,12",,,Rock
+rock,070f7413,239919A,The Clash,London Calling,19,3958,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",,,Rock
+rock,a7099e0c,E55455,The Cranberries,"Everybody Else Is Doing It, So Why Can't We?",12,2464,0,,"0,1,2,3,4,5,6,7,8,9,10,11",,1992,Rock
+rock,e7118d0f,21DEE18,The Cult,Best Of Rare Cult,15,4495,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14",,,Rock
+rock,8b0bf60c,10FF2E4,The Cult,Beyond Good And Evil,12,3064,1,audiograbber 1.70,"0,1,2,3,4,5,6,7,8,9,10,11",,2001,Rock
+rock,8b09190b,BA7C5B,The Cult,Electric,11,2331,2,NotifyCDPlayer(CDDB) 1.50beta7,"0,1,2,3,4,5,6,7,8,9,10",,,Rock
+rock,33123213,2AEFDA1,The Cult,Pure Cult,19,4660,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",,2000,Rock
+rock,890d630b,12605EE,The Cult,Sonic Temple,11,3429,0,,"0,1,2,3,4,5,6,7,8,9,10",,,Rock
+rock,a610f50c,16560F0,The Cure,Disintegration,12,4343,27,inCDius 1.1,"0,1,2,3,4,5,6,7,8,9,10,11",,1989,Rock
+rock,0b0ff812,2260F21,The Cure,Greatest Hits - Disc 1,18,4090,4,CDmax 1.8,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",This disc contains the album (electric) version of the songs.,2001,Rock
+rock,5104212,2347272,The Cure,Greatest Hits - Disc 2,18,4164,1,CDex 1.40Beta4,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",This disc contains the accoustic version of the songs.,2001,Rock
+rock,940d290c,E9EB66,The Cure,The Cure,12,3371,3,ExactAudioCopy v0.90b4,"0,1,2,3,4,5,6,7,8,9,10",,2004,Rock
+rock,9108f40a,99BF07,The Darkness,Permission To Land,10,2294,6,ExactAudioCopy v0.95a4,"0,1,2,3,4,5,6,7,8,9",YEAR: 2003,2003,Rock
+rock,f811bc14,2BB140C,The Doobie Brothers,Greatest Hits,20,4542,4,CDex 1.40Beta9,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",YEAR: 2001 ID3G: 1,2001,Rock
+rock,970a6d0b,B137E4,The Doors,The Doors,11,2671,19,xmcd 2.6 PL0,"0,1,2,3,4,5,6,7,8,9,10",,1967,Rock
+rock,920b520c,1035021,The Fixx,Greatest Hits - One Thing Leads To Another,12,2900,1,xmcd 2.0,"0,1,2,3,4,5,6,7,8,9,10,11",,1989,Rock
+rock,8509aa0a,AE12DA,The Fixx,Reach The Beach,10,2476,0,,"0,1,2,3,4,5,6,7,8,9",,1983,Rock
+rock,ba08950f,F4A53C,The Futureheads,The Futureheads,15,2199,1,ExactAudioCopy v0.95a5,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14",YEAR: 2004,2004,Rock
+rock,7e08dc0a,AAFA61,The Guess Who,These Eyes & More: The Best Of The Guess Who,10,2270,0,,"0,1,2,3,4,5,6,7,8,9",,2005,Rock
+rock,060e2411,1DDCA8B,The Jimi Hendrix Experience,Are You Experienced?,17,3622,13,ExactAudioCopy v0.95a5,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16","Jimi Hendrix, 1967\n\nMCA\n YEAR: 1967 ID3G: 17",1967,Rock
+rock,7a082f0b,ABF024,The Mamas & The Papas,The Millennium Collection,11,2097,0,audiograbber 1.80,"0,1,2,3,4,5,6,7,8,9,10",,1999,Rock
+rock,9507d50c,B1627E,The Mighty Mighty Bosstones,Let's Face It,12,2007,0,,"0,1,2,3,4,5,6,7,8,9,10,11",,,Rock
+rock,aa0c230d,13474AD,The Notwist,Neon Golden,13,3109,2,ExactAudioCopy v0.90b4,"0,1,2,3,4,5,6,7,8,9,10,11,12",YEAR: 2002 ID3G: 52,2002,Rock
+rock,9708fe0c,DA34AD,The Pimps,"'To A Cool Person, Stay That Way!'",12,2304,1,CDex 1.40Beta3,"0,1,2,3,4,5,6,7,8,9,10,11",YEAR: 2000 ID3G:  17,2000,Rock
+rock,a10bc60c,104622E,The Police,Every Breath You Take - The Singles,12,3016,0,,"0,1,2,3,4,5,6,7,8,9,10,11",All lyrics by Sting\n\nSting\nAndy Summers\nStewart Copeland,,Rock
+rock,9b09a50b,CD5976,The Police,Ghost In The Machine,11,2471,3,EasyCDDAExtractor 6.0.0.1,"0,1,2,3,4,5,6,7,8,9,10",Produced by The Police and Hugh Padgham\n\n1981 A&M Records\nCD-3730,1981,Rock
+rock,9a0a6f0b,C9DACA,The Police,Synchronicity,11,2673,9,MusicMatchJukebox 4.30.0058,"0,1,2,3,4,5,6,7,8,9,10",,,Rock
+rock,740a890a,C45682,The Postal Service,Give Up,10,2699,6,Feurio! 1.67 - http://www.feurio.com,"0,1,2,3,4,5,6,7,8,9",SPCD 595,2003,Rock
+rock,6f07ee0a,8FD056,The Shins,Chutes Too Narrow,10,2032,11,ExactAudioCopy v0.95a5,"0,1,2,3,4,5,6,7,8,9",YEAR: 2003,2003,Rock
+rock,8f09170c,9DF33A,The Shins,"Oh, Inverted World",12,2329,6,FreeRIP 2.70,"0,1,2,3,4,5,6,7,8,9,10",YEAR: 2001,2001,Rock
+rock,0f0e9a12,2.09E+264,The Smiths,Singles,18,3740,9,CDex 1.40Release,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",,1995,Rock
+rock,9f0a640e,117A31A,The Steve Miller Band,Greatest Hits 1974-78,14,2662,10,CDmax 1.7.5,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,,Rock
+rock,0e020102,4B9AA,The Verve Pipe,Cup Of Tea (Single),2,515,0,,"0,1",,,Rock
+rock,ba0c940d,13B90C4,The Verve Pipe,Villains,13,3222,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12",,1997,Rock
+rock,ba0bb20e,143C444,The White Stripes,3l3phant,14,2996,3,CDex 1.40Release,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",YEAR: 2003 ID3G: 17,2003,Rock
+rock,b008d20d,D8D7D2,The White Stripes,De Stijl,13,2260,1,tcd 2.0b,"0,1,2,3,4,5,6,7,8,9,10,11,12",2002 Rerelease of a 2000 album.,2000,Rock
+rock,0e016f03,46B5C,The White Stripes,Fell In Love With A Girl,3,369,0,dBpowerAMP V4.0,"0,1,2",,2002,Blues
+rock,b30a5e0d,F7A80A,The White Stripes,Get Behind Me Satan,13,2656,0,dBpowerAMP V4.0,"0,1,2,3,4,5,6,7,8,9,10,11,12",,2005,Rock
+rock,d90a4011,1581F0F,The White Stripes,The White Stripes,17,2626,7,CDex 1.40Beta9,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",YEAR: 1999 ID3G: 17,1999,Rock
+rock,c8097e10,1245A67,The White Stripes,White Blood Cells,16,2432,7,audiograbber 1.80,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15",,2002,Rock
+rock,2.71E+117,26C1BDC,The Who,My Generation - The Very Best Of,20,4579,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",,,Rock
+rock,6311a118,36E7BD9,The Who,Tommy,24,4515,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",Re-released in 1996 with new packaging.,1969,Rock
+rock,f9124910,239D5B2,The Who,Who's Next,16,4683,8,CDex 1.50Beta7,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15","The original album comprised tracks 1-9.  Tracks\n10-16 are bonus tracks for this remastered release,\nwhich details The Who's abandoned 'Lifehouse' project. YEAR: 1971",1971,Rock
+rock,9b0a7e0d,107BFA4,Theory Of A Deadman,Gasoline,13,2688,1,tcd 2.0b,"0,1,2,3,4,5,6,7,8,9,10,11,12",,2005,Rock
+rock,9a0aa90c,EB075C,Thornley,Come Again,12,2731,1,Grip 3.0.7,"0,1,2,3,4,5,6,7,8,9,10,11",,2004,Rock
+rock,af0a570c,F17FD2,Three Days Grace,Three Days Grace,12,2649,0,ExactAudioCopy v0.95a3,"0,1,2,3,4,5,6,7,8,9,10,11",,2003,Rock
+rock,2f040a05,206261,Toad The Wet Sprocket,Acoustic Dance Party,5,1036,0,,"0,1,2,3,4",,,Rock
+rock,9e0a5d0c,E4DEBA,Toad The Wet Sprocket,Coil,12,2655,5,CDmax 1.7.5,"0,1,2,3,4,5,6,7,8,9,10",,1997,Rock
+rock,a80af90c,FE340F,Toad The Wet Sprocket,Dulcinea,12,2811,0,,"0,1,2,3,4,5,6,7,8,9,10,11",,1994,Rock
+rock,aa0af10c,E45367,Toad The Wet Sprocket,Fear,12,2803,0,,"0,1,2,3,4,5,6,7,8,9,10,11",,,Rock
+rock,9c0b140c,1039048,Toad The Wet Sprocket,In Light Syrup,12,2838,3,NotifyCDPlayer(CDDB) 1.07,"0,1,2,3,4,5,6,7,8,9,10,11",,1995,Rock
+rock,d80d4510,1A58E13,Toad The Wet Sprocket,PS (A Toad Retrospective),16,3399,2,MusicMatchJukebox 4.30.0058,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15",,1999,Rock
+rock,d60eb80f,19DD780,Tom Petty,Wildflowers,15,3770,12,CDmax 2.0,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14",YEAR: 1994 ID3G:  17,1994,Rock
+rock,f70f6712,2061A2A,Tom Petty & The Heartbreakers,Greatest Hits,18,3945,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",,,Rock
+rock,ea12230f,1E30E58,TOOL,Ænima,15,4645,76,ExactAudioCopy v0.90a9,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14",,1996,Rock
+rock,c612810d,1AE572E,TOOL,Lateralus,13,4739,1,CDmax 1.7.6,"0,1,2,3,4,5,6,7,8,9,10,11,12",,2001,Rock
+rock,4.91E+10,32A9B2,TOOL,Opiate,6,1616,12,CdAid 2001.05.15.01,"0,1,2,3,4,5",YEAR 1992,1992,Rock
+rock,8103745,D1030B7,TOOL,Undertow,69,4153,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68",,1992,Rock
+rock,a10d520c,EFF590,Trapt,Trapt,12,3412,1,audiograbber 1.82.02,"0,1,2,3,4,5,6,7,8,9,10",,2002,Rock
+rock,8408e60b,B73665,TRUSTcompany,The Lonely Position Of Neutral,11,2280,1,CDmax 1.9,"0,1,2,3,4,5,6,7,8,9",,2002,Rock
+rock,550d252a,5565E8D,TRUSTCompany,True Parallels,42,3367,1,audiograbber 1.83.01,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40",,2005,Rock
+rock,820b850b,EF94BB,TSOL,Strange Love,11,2951,0,,"0,1,2,3,4,5,6,7,8,9,10",,,Rock
+rock,a90cff0c,12C376E,U2,Achtung Baby,12,3329,0,,"0,1,2,3,4,5,6,7,8,9,10,11",,1991,Rock
+rock,7e0b930b,E82A10,U2,All That You Can't Leave Behind,11,2965,0,,"0,1,2,3,4,5,6,7,8,9,10",,2001,Rock
+rock,920b840b,EFC646,U2,How To Dismantle An Atomic Bomb,11,2950,8,CDex 1.51,"0,1,2,3,4,5,6,7,8,9,10",YEAR: 2004,2004,Rock
+rock,a209a50b,D71C00,U2,October,11,2471,4,Jet-Audio 4.0,"0,1,2,3,4,5,6,7,8,9,10",,1981,Rock
+rock,910e1b0c,14EDDAD,U2,Pop,12,3613,0,,"0,1,2,3,4,5,6,7,8,9,10,11",,,Rock
+rock,f510fb11,227C008,U2,Rattle And Hum,17,4349,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",,1988,Rock
+rock,8a0bc50b,FD12CE,U2,The Joshua Tree,11,3015,0,,"0,1,2,3,4,5,6,7,8,9,10",,,Rock
+rock,640a040a,BFFBA0,U2,The Unforgettable Fire,10,2566,0,,"0,1,2,3,4,5,6,7,8,9",,,Rock
+rock,7609e10a,C1E5EB,U2,War,10,2531,0,,"0,1,2,3,4,5,6,7,8,9",,,Rock
+rock,6707d209,74C878,Van Halen,1984,9,2004,0,,"0,1,2,3,4,5,6,7,8",,,Rock
+rock,980c340b,116E77E,Van Halen,For Unlawful Carnal Knowledge,11,3126,7,MusicMatchJukebox 4.30.0058,"0,1,2,3,4,5,6,7,8,9,10",,,Rock
+rock,8e08540b,A93A61,Van Halen,Van Halen,11,2134,0,,"0,1,2,3,4,5,6,7,8,9,10",,1978,Rock
+rock,cc11510e,1BC2E10,Various Artists,Family Values Tour 99,14,4435,10,AudioCatalyst 2.10full,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,,Rock
+rock,e510fb10,218E65E,Various Artists,Monster Ballads,16,4349,7,CDex 1.50,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15",YEAR: 1999,1999,Rock
+rock,b60e0b0e,171B0EA,Various Artists,Sweet Relief II: Gravity Of The Situation,14,3597,2,QuintessentialCD v1.27,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,,Rock
+rock,990be50b,EE18BC,Victor,Victor,11,3047,2,PowerPlay 1.12,"0,1,2,3,4,5,6,7,8,9,10",,,Rock
+rock,7a06b20a,7AD206,Weezer,Weezer (Green Album),10,1716,20,ExactAudioCopy v0.90b4,"0,1,2,3,4,5,6,7,8,9",,2001,Rock
+rock,7b0b030a,C82191,Whitesnake,Slip Of The Tongue,10,2821,0,,"0,1,2,3,4,5,6,7,8,9",,,Rock
+rock,7909ef09,AED402,Whitesnake,Whitesnake,9,2545,0,,"0,1,2,3,4,5,6,7,8",,,Rock
+rock,9a0dc30c,FBB73B,Wilco,Yankee Hotel Foxtrot,12,3525,11,ExactAudioCopy v0.95a5,"0,1,2,3,4,5,6,7,8,9,10",Producer Wilco,2002,Rock
+rock,6a0a470b,D86D2F,Winger,Winger,11,2633,0,,"0,1,2,3,4,5,6,7,8,9,10",,,Rock
+rock,a40f8a0c,18E3872,Yes,Yes Highlights - The Very Best Of Yes,12,3980,0,,"0,1,2,3,4,5,6,7,8,9,10,11",,1993,Rock
+soundtrack,f3116511,2117C10,John Williams,Star Wars - Episode 1 - The Phantom Menace,17,4455,29,Axialis_AX_CDPlayer 2.1.003,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",,,Soundtrack
+soundtrack,b6113e0d,1854A74,John Williams,Star Wars - Episode 2 - Attack Of The Clones,13,4416,0,,"0,1,2,3,4,5,6,7,8,9,10,11,12",Music Composed And Conducted By John WIlliams\nPerformed By The London Symphony Orchestra,2002,Soundtrack
+soundtrack,e5109a0f,1D82600,John Williams,Star Wars - Episode 3 - Revenge Of The Sith,15,4252,10,Grip 3.2.0,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14",,2005,Soundtrack
+soundtrack,860eb10b,14453AF,John Williams,Star Wars - Episode 5 - The Empire Strikes Back - Disc 1,11,3763,0,,"0,1,2,3,4,5,6,7,8,9,10","DISC: John Williams, London Symphony Orchestra",,Soundtrack
+soundtrack,ab0e760c,1113979,John Williams,Star Wars - Episode 5 - The Empire Strikes Back - Disc 2,12,3704,15,audiograbber 1.70,"0,1,2,3,4,5,6,7,8,9,10,11",,,Soundtrack
+soundtrack,140fe713,,Soundtrack,The Punisher,19,4073,6,ExactAudioCopy v0.95a4,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",YEAR: 2004,2004,Soundtrack
+soundtrack,0b012302,26FA2,South Park,Timmy And The Lords Of The Underworld,2,293,0,AudioCatalyst 2.10full,"0,1",,,Soundtrack
+soundtrack,a30c6d0d,131140F,Various,Garden State,13,3183,7,libkcddb 0.10,"0,1,2,3,4,5,6,7,8,9,10,11,12",,2004,Soundtrack
+soundtrack,bd0efe0e,,Various Artists,50 First Dates,14,3858,0,ExactAudioCopy v0.95a4,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,2004,Soundtrack
+soundtrack,10115b14,,Various Artists,Daredevil: The Album,20,4445,4,ExactAudioCopy v0.95a4,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",,2003,Soundtrack
+soundtrack,b20efe0e,1AB7A04,Various Artists,The Crow Soundtrack,14,3840,24956,AudioCatalyst 2.10full,"0,1,2,3,4,5,6,7,8,9,10,11,12,13",,,Soundtrack
+soundtrack,d70e4210,1CDCF2C,Various Artists,The Scorpion King,16,3652,1,Axialis_AX_CDPlayer 2.6,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15",,2002,Soundtrack
+soundtrack,170fbb13,286F9EA,Various Artists,Underworld,19,4029,4,EasyCDDAExtractor 5.0.6,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",YEAR: 2003,2003,Soundtrack
+soundtrack,c00bfd0d,14469BC,Various Artists,William Shakespeare's Romeo + Juliet,13,3071,20,VisiTrax 1.5.2.1978,"0,1,3,5,6,9,10,11,12",,1996,Soundtrack

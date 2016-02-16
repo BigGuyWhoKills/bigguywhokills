@@ -1,0 +1,177 @@
+/*This is my white background css file for my website*/
+
+body
+{
+	background: white url(back05.jpg) fixed;
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	font-style: normal;
+	text-align: left;
+	text-decoration: none;
+	text-transform: none;
+}
+
+h1
+{
+	font-size: 24pt;
+	line-height: 1.0em;
+	background-color: transparent;
+	color: #777777;
+	text-align: center;
+}
+
+h2
+{
+	line-height: 1.05em;
+	background-color: transparent;
+	color: #777777;
+	text-align: center;
+}
+
+p
+{
+	font-size: 11pt;
+}
+
+.normal
+{
+	font-size: 1.0em;
+	line-height: 1.2em;
+	font-weight: normal;
+}
+
+.normalbold
+{
+	font-size: 1.0em;
+	line-height: 1.1em;
+	font-weight: bold;
+}
+
+.cnormal
+{
+	font-size: 1.0em;
+	line-height: 1.0em;
+	text-align: center;
+	font-weight: normal;
+}
+
+.normalplus3bold
+{
+	font-size: 2.5em;
+	line-height: 1.0em;
+	font-weight: bold;
+}
+
+.normalplus1
+{
+	font-size: 1.2em;
+	line-height: 1.2em;
+	font-weight: normal;
+}
+
+.normalplus1bold
+{
+	font-size: 1.2em;
+	line-height: 1.0em;
+	font-weight: bold;
+}
+
+
+.normalplus2
+{
+	font-size: 1.5em;
+	line-height: 1.0em;
+	font-weight: normal;
+}
+
+.cnormalplus2
+{
+	font-size: 1.5em;
+	line-height: 1.0em;
+	text-align: center;
+	font-weight: normal;
+}
+
+.cnormalminus1
+{
+	font-size: 0.75em;
+	line-height: 1.3em;
+	font-weight: normal;
+	text-align: center;
+}
+
+.cnormalminus2
+{
+	font-size: 0.6em;
+	line-height: 1.3em;
+	font-weight: normal;
+	text-align: center;
+}
+
+.normalminus2
+{
+	font-size: 0.6em;
+	line-height: 1.3em;
+	font-weight: normal;
+}
+
+.slesser
+{
+	font-size: 0.7em;
+	font-weight: normal;
+}
+
+.cslesser
+{
+	font-size: 0.7em;
+	line-height: 1.1em;
+	text-align: center;
+	font-weight: normal;
+}
+
+.mlesser
+{
+	font-size: 0.85em;
+	font-weight: normal;
+}
+
+.cmlesser
+{
+	font-size: 0.85em;
+	line-height: 1.3em;
+	text-align: center;
+	font-weight: normal;
+}
+
+.blueblink
+{
+	background-color: transparent;
+	text-decoration: blink; 
+	color: blue; 
+	font-size: 22pt;
+}
+
+a:link
+{
+	background-color: transparent;
+	color: #888888;
+}
+
+a:visited
+{
+	background-color: transparent;
+	color: #c0c0c0;
+}
+
+a:hover
+{
+	background-color: transparent;
+	color: #333333;
+}
+
+a:active
+{
+	background-color: transparent;
+	color: #ff0000;
+}

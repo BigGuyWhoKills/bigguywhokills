@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<link rel="stylesheet" type="text/css" href="index.css" title="Default">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="Author" content="Adam J. Howell">
+	<meta name="GENERATOR" content="EditPad Pro 7">
+	<title>Adam Howell Expense Tracker</title>
+</head>
+<body>
+	<h1 id="h1Id">Adam Howell's Final Project</h1>
+
+	<div>
+		<table style="width:40%" id="categoryHTML">
+			<tr>
+				<td>
+					Initial
+				</td>
+				<td>
+					Value
+				</td>
+			</tr>
+		</table>
+	</div>
+
+	<div id="categoryResults" class="centered">
+		This is where cell coordinates will go after you click a cell. &nbsp;Only the Budgeted column is editable.
+	</div>
+
+	<br>
+
+	<div>
+		<table style="width:60%" id="expenseHTML">
+			<tr>
+				<td>
+					Initial
+				</td>
+				<td>
+					Value
+				</td>
+			</tr>
+		</table>
+	</div>
+
+	<div id="expenseResults" class="centered">
+		This is where cell coordinates will go after you click a cell.
+	</div>
+
+	<form id="addCategoryForm" class="categoryAddForm">
+		<fieldset>
+			Add a new category<br>
+			<div><label for="addCategories">Category: </label><input type="text" id="addCategoryInput" value="Ninja Swords" required></div>
+			<div><label for="addBudget">Budgeted: </label><input type="number" id="addBudgetedInput" min="0" value="100" required></div>
+			<div><input type="button" value="Add Category" id="addCategoryButton" onclick="addCategory()"></div>
+		</fieldset>
+	</form>
+
+	<form id="addExpenseForm" class="exspenseAddForm">
+		<fieldset>
+			Add a new expense<br>
+			<label for="addExpenseCategoryLabel">Category: </label>
+			<select id="expenseCategorySelect" required size="1">
+				<option value="Rent">Rent</option>
+			</select><br>
+			<label for="addExpenseNameLabel">Description: </label><input type="text" id="addExpenseDescription" value="Katana" required><br>
+			<label for="addExpenseCostLabel">Cost: </label><input type="number" id="addExpenseCost" min="0" value="80" required><br>
+			<label for="addExpenseDateLabel">Date: </label><input type="date" id="addExpenseDate" value="2015-08-12" required><br>
+			<label for="addExpensePaymentMethodLabel">Payment Method: </label>
+			<select id="addExpensePaymentMethod" required size="1">
+				<option value="Cash">Cash</option>
+				<option value="Check">Check</option>
+				<option value="Credit">Credit</option>
+				<option value="Other">Other</option>
+			</select><br>
+			<label for="addExpenseNotesLabel">Notes: </label><input type="text" id="addExpenseNotes" value="Fingers are overrated."><br>
+			<input type="button" value="Add Expense" onclick="addExpense()">
+		</fieldset>
+	</form>
+
+	<div id="storageDiv">
+		Local storage has 0 items.
+	</div>
+
+	<div id="footerDiv">
+		<input type="button" value="Storage Info (console log)" onclick="showAllStorage()">
+		<input type="button" value="Delete Local Storage" onclick="deleteAllStorage()">
+		<br>
+		<input type="button" value="Save Expenses" onclick="saveExpenses()"> This will save all expenses to HTML5 local storage in a keys named categoryData and expenseData.
+		<br>
+		<input type="button" value="Restore Expenses" onclick="restoreExpenses()"> This will restore all expenses to what is stored in HTML5 local storage (keys named categoryData and expenseData).
+	</div>
+
+	<div id="loginInfo">
+		&nbsp;
+	</div>
+
+	<div>
+		<a href="javascript:categoryDownload();">Download categories in JSON format to your computer</a>.<br>
+		<a href="javascript:expensesDownload();">Download expenses in JSON format to your computer</a>.
+	</div>
+
+	<div id="recalculateButton">
+		<input type="button" value="Recalculate" onclick="tableRedraw()">
+	</div>
+
+	<script src="storage.js"></script>
+	<script src="tableFunctions.js"></script>
+
+</body>
+</html>

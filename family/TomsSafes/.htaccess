@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^$ [OR]
+RewriteCond %{HTTP_HOST} ^www.$
+RewriteRule ^(.*)$ http://www.tomssafes.com/ZenCart/$1 [R=301,L]
+

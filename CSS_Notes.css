@@ -1,0 +1,23 @@
+<html>
+	<head>
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	<link rel="stylesheet" type="text/css" href="index.css" title="xmas" />
+	<link rel="alternate stylesheet" type="text/css" href="indexwhite.css" title="White" />
+	<link rel="alternate stylesheet" type="text/css" href="indexblue.css" title="Blue" />
+	<link rel="alternate stylesheet" type="text/css" href="indexgreen.css" title="Green" />
+	<script type="text/javascript" src="styleswitcher.js"></script>
+</head>
+<body>
+
+<p>
+	<a href="#" onclick="setActiveStyleSheet('Black'); return false;"><img src="01_black.png" border="0" alt="Black" /></a>
+	<a href="#" onclick="setActiveStyleSheet('White'); return false;"><img src="02_white.png" border="0" alt="White'" /></a>
+	<a href="#" onclick="setActiveStyleSheet('Blue'); return false;"><img src="03_blue.png" border="0" alt="Blue" /></a>
+	<a href="#" onclick="setActiveStyleSheet('Green'); return false;"><img src="04_green.png" border="0" alt="Green" /></a>
+</p>
+
+
+
+	<link rel="alternate stylesheet" TYPE="text/css" HREF="indexnoback.css" TITLE="No Background">
+	<link rel=" alternate stylesheet" TYPE="text/css" HREF="indexwhite.css" TITLE="White Background">
+	<link rel="  alternate stylesheet" TYPE="text/css" HREF="indexoverlap.css" TITLE="Overlap Test">

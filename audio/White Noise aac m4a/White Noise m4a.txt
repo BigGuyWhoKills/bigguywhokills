@@ -1,0 +1,79 @@
+C:\Audio\FAAC Encoder>faac -q 100 "white noise.wav" -w
+Freeware Advanced Audio Coder
+FAAC 1.24+ (Jul 14 2004) UNSTABLE
+
+Quantization quality: 100
+Bandwidth: 16000 Hz
+Object type: Low Complexity(MPEG-4) + TNS + M/S
+Container format: MPEG-4 File Format (MP4)
+Encoding white noise.wav to white noise.m4a
+   frame          | bitrate | elapsed/estim | play/CPU | ETA
+
+
+
+C:\Audio\FAAC Encoder>faac -q 200 "white noise.wav" -w
+Freeware Advanced Audio Coder
+FAAC 1.24+ (Jul 14 2004) UNSTABLE
+
+Quantization quality: 200
+Bandwidth: 22050 Hz
+Object type: Low Complexity(MPEG-4) + TNS + M/S
+Container format: MPEG-4 File Format (MP4)
+Encoding white noise.wav to white noise.m4a
+   frame          | bitrate | elapsed/estim | play/CPU | ETA
+   45/45    (100%)|  309.0  |    0.1/0.1    |    9.50x | 0.0
+
+
+C:\Audio\FAAC Encoder>faac -q 300 "white noise.wav" -w
+Freeware Advanced Audio Coder
+FAAC 1.24+ (Jul 14 2004) UNSTABLE
+
+Quantization quality: 300
+Bandwidth: 22050 Hz
+Object type: Low Complexity(MPEG-4) + TNS + M/S
+Container format: MPEG-4 File Format (MP4)
+Encoding white noise.wav to white noise.m4a
+   frame          | bitrate | elapsed/estim | play/CPU | ETA
+   45/45    (100%)|  350.9  |    0.1/0.1    |    8.36x | 0.0
+
+
+C:\Audio\FAAC Encoder>faac -q 400 "White Noise.wav" -w
+Freeware Advanced Audio Coder
+FAAC 1.24+ (Jul 14 2004) UNSTABLE
+
+Quantization quality: 400
+Bandwidth: 22050 Hz
+Object type: Low Complexity(MPEG-4) + TNS + M/S
+Container format: MPEG-4 File Format (MP4)
+Encoding White Noise.wav to White Noise.m4a
+   frame          | bitrate | elapsed/estim | play/CPU | ETA
+   45/45    (100%)|  376.4  |    0.1/0.1    |    9.50x | 0.0
+
+
+C:\Audio\FAAC Encoder>faac -q 500 "White Noise.wav" -w
+Freeware Advanced Audio Coder
+FAAC 1.24+ (Jul 14 2004) UNSTABLE
+
+Quantization quality: 500
+Bandwidth: 22050 Hz
+Object type: Low Complexity(MPEG-4) + TNS + M/S
+Container format: MPEG-4 File Format (MP4)
+Encoding White Noise.wav to White Noise.m4a
+   frame          | bitrate | elapsed/estim | play/CPU | ETA
+   45/45    (100%)|  401.6  |    0.1/0.1    |    8.36x | 0.0
+
+
+C:\Audio\FAAC Encoder>faac -q 600 "White Noise.wav" -w
+Freeware Advanced Audio Coder
+FAAC 1.24+ (Jul 14 2004) UNSTABLE
+
+Quantization quality: 500
+Bandwidth: 22050 Hz
+Object type: Low Complexity(MPEG-4) + TNS + M/S
+Container format: MPEG-4 File Format (MP4)
+Encoding White Noise.wav to White Noise.m4a
+   frame          | bitrate | elapsed/estim | play/CPU | ETA
+   45/45    (100%)|  401.6  |    0.1/0.1    |    8.36x | 0.0
+
+
+C:\Audio\FAAC Encoder>

@@ -1,0 +1,106 @@
+C:\Audio\Ogg Encoder>oggencgt3b1 -q 7 "white noise.wav"
+Opening with wav module: WAV file reader
+Encoding "white noise.wav" to
+         "white noise.ogg"
+at quality 7.00
+        [ 88.2%] [ 0m00s remaining] \
+
+Done encoding file "white noise.ogg"
+
+        File length:  0m 01.0s
+        Elapsed time: 0m 01.0s
+        Rate:         1.0000
+        Average bitrate: 258.7 kb/s
+
+
+C:\Audio\Ogg Encoder>oggencgt3b1 -q 6 "white noise.wav"
+Opening with wav module: WAV file reader
+Encoding "white noise.wav" to
+         "white noise.ogg"
+at quality 6.00
+        [ 95.2%] [ 0m00s remaining] \
+
+Done encoding file "white noise.ogg"
+
+        File length:  0m 01.0s
+        Elapsed time: 0m 01.0s
+        Rate:         1.0000
+        Average bitrate: 241.3 kb/s
+
+
+C:\Audio\Ogg Encoder>oggencgt3b1 -q 5 "white noise.wav"
+Opening with wav module: WAV file reader
+Encoding "white noise.wav" to
+         "white noise.ogg"
+at quality 5.00
+        [ 95.2%] [ 0m00s remaining] \
+
+Done encoding file "white noise.ogg"
+
+        File length:  0m 01.0s
+        Elapsed time: 0m 01.0s
+        Rate:         1.0000
+        Average bitrate: 170.0 kb/s
+
+
+C:\Audio\Ogg Encoder>oggencgt3b1 -q 4 "white noise.wav"
+Opening with wav module: WAV file reader
+Encoding "white noise.wav" to
+         "white noise.ogg"
+at quality 4.00
+        [ 95.2%] [ 0m00s remaining] \
+
+Done encoding file "white noise.ogg"
+
+        File length:  0m 01.0s
+        Elapsed time: 0m 01.0s
+        Rate:         1.0000
+        Average bitrate: 122.0 kb/s
+
+
+C:\Audio\Ogg Encoder>oggencgt3b1 -q 3 "white noise.wav"
+Opening with wav module: WAV file reader
+Encoding "white noise.wav" to
+         "white noise.ogg"
+at quality 3.00
+        [ 95.2%] [ 0m00s remaining] \
+
+Done encoding file "white noise.ogg"
+
+        File length:  0m 01.0s
+        Elapsed time: 0m 01.0s
+        Rate:         1.0000
+        Average bitrate: 108.4 kb/s
+
+
+C:\Audio\Ogg Encoder>oggencgt3b1 -q 10 "white noise.wav"
+Opening with wav module: WAV file reader
+Encoding "white noise.wav" to
+         "white noise.ogg"
+at quality 10.00
+        [ 88.2%] [ 0m00s remaining] \
+
+Done encoding file "white noise.ogg"
+
+        File length:  0m 01.0s
+        Elapsed time: 0m 01.0s
+        Rate:         1.0000
+        Average bitrate: 812.2 kb/s
+
+
+C:\Audio\Ogg Encoder>oggencgt3b1 -q 1 "white noise.wav"
+Opening with wav module: WAV file reader
+Encoding "white noise.wav" to
+         "white noise.ogg"
+at quality 1.00
+        [ 95.2%] [ 0m00s remaining] \
+
+Done encoding file "white noise.ogg"
+
+        File length:  0m 01.0s
+        Elapsed time: 0m 01.0s
+        Rate:         1.0000
+        Average bitrate: 83.6 kb/s
+
+
+C:\Audio\Ogg Encoder>

@@ -1,0 +1,131 @@
+ /*
+File Prologue
+Name: Adam Howell
+Project: CS 2550 Project
+
+This is a no-background css file for my project.
+*/
+
+body
+{
+	background: black;
+	color: #cccccc;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 12pt;
+	text-align: left;
+	text-decoration: none;
+	text-transform: none;
+	margin: auto;
+	padding: 1%;
+	width: 98%;
+}
+
+h1
+{
+	font-size: 24pt;
+	line-height: 1.0em;
+	background-color: transparent;
+	color: #cccccc;
+	text-align: center;
+}
+
+div
+{
+	width: 99%;
+	margin: auto;
+}
+
+/* The order of these pseudo-classes in a stylesheet is important!*/
+a:link
+{
+	background-color: transparent;
+	color: #888888;
+}
+
+a:visited
+{
+	background-color: transparent;
+	color: #c0c0c0;
+}
+
+/* Hover MUST come after link and visited.*/
+a:hover
+{
+	background-color: transparent;
+	color: #ffffff;
+}
+
+/* Active MUST come after hover.*/
+a:active
+{
+	background-color: transparent;
+	color: #ff0000;
+}
+
+table, th, td 
+{
+	border: 1px solid gray;
+	border-collapse: collapse;
+	margin: auto;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+
+fieldset
+{ 
+	display: block;
+	width:250px;
+	margin-left: 2px;
+	margin-right: 2px;
+	padding-top: 0.35em;
+	padding-bottom: 0.625em;
+	padding-left: 0.75em;
+	padding-right: 0.75em;
+	border: 2px groove;
+}
+
+.tall
+{
+	line-height: 1.5em;
+}
+
+.categoryAddForm
+{
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.exspenseAddForm
+{
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
+.centered
+{
+	text-align: center;
+}
+
+.right
+{
+	text-align: right;
+}
+
+.light
+{
+	background-color: rgb(48, 48, 48);
+}
+
+.medium
+{
+	background-color: rgb(26, 26, 26);
+}
+
+.dark
+{
+	background-color: rgb(256, 256, 256);
+}

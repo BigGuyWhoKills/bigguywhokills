@@ -1,0 +1,53 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+	<link rel="stylesheet" type="text/css" href="index.css" title="Default">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="Author" content="Adam J. Howell">
+	<meta name="GENERATOR" content="EditPad Pro 7">
+	<title>Adam Howell's Checkpoint</title>
+</head>
+<body>
+	<h2>Adam Howell's CS 2550 Checkpoint File</h2>
+	Main components of the 'game' logic:<br>
+	<ol>
+		<li>
+			When categoryItem objects are created, the net value is determined at creation-time. - Implemented<br>
+			While this is implemented, it is not a user-observable activity.
+		</li>
+		<li>
+			When categoryItem objects are pushed onto the array, a totals categoryItem object is created. - Implemented<br>
+			While this is implemented, it is not a user-observable activity.
+		</li>
+		<li>
+			Cell style is only changed if a value has been modified. - Implemented<br>
+			Click on a cell, enter a new value in the prompt box, and click OK.<br>
+		</li>
+		<li>
+			When a cell is clicked, display the row and column number of that cell. - Implemented<br>
+			Click on any cell.  The values are displayed lower on the page.<br>
+			Note that the table header cells are not clickable, but are considered to be a row in the table, so row 0 is not observable.  However, column 0 is observable.
+		</li>
+		<li>
+			Recalculate the cell values after changes. - NOT implemented<br>
+			This will require reading in the entire table, parsing each cell to get its new value, and rebuilding the table.
+		</li>
+		<li>
+			Remove rows. - Partially implemented<br>
+			Currently, this is hard-coded to the initial row names.<br>
+			I intend to update this to eventually read the first column from each row, and populate the list with that.
+		</li>
+		<li>
+			Add a new row. - Partially implemented<br>
+			The form is set up for this, but the code is not written yet.
+		</li>
+		<li>
+			User log in. - Implemented<br>
+		</li>
+		<li>
+			Local storage. - Implemented<br>
+		</li>
+	</ol>
+</body>
+</html>

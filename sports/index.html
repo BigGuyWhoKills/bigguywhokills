@@ -1,0 +1,203 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+	<meta name="author" content="Adam J. Howell">
+	<title>Sports</title>
+
+	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+	</script>
+	<script type="text/javascript">
+		_uacct = "UA-140620-1";
+		urchinTracker();
+	</script>
+
+</head>
+<body text="#000000" bgcolor="#ffffff" link="#0000ff" alink="#000088" vlink="#ff0000" background="louisville_xn10_01.gif">
+
+<script>
+
+// CREDITS:
+// Splash Tracker
+// By Urs Dudli and Peter Gehrig 
+// Copyright (c) 2002 Peter Gehrig and Urs Dudli. All rights reserved.
+// Permission given to use the script provided that this notice remains as is.
+// Additional scripts can be found at http://www.24fun.com
+// info@24fun.com
+// 5/17/2002
+
+// IMPORTANT:
+// If you add the Splash Tracker to a script-library or script-archive
+// you have to add a highly visible link to
+// http://www.24fun.com on the webpage where this script will be featured
+
+///////////////////////////////////////////////////////////////
+// CONFIGURATION STARTS HERE
+///////////////////////////////////////////////////////////////
+
+// URLs of the splash images. Replace it with your images.
+var imgurl=new Array ("greensmall.gif","redsmall.gif","yellowsmall.gif")
+// maximum numbers of splash images displayed on your webpage
+var max_img=50
+// how long shall the images be displayed after the animation is over (seconds)
+var standstill=2
+// speed of animation: lower means faster
+var speed=3
+
+///////////////////////////////////////////////////////////////
+// CONFIGURATION ENDS HERE
+///////////////////////////////////////////////////////////////
+
+var imgpreload=new Array()
+for (i=0;i<=imgurl.length-1;i++) {
+	imgpreload[i]=new Image()
+	imgpreload[i].src=imgurl[i]
+}
+
+var isfinished=false
+var range=imgurl.length
+var ns4=document.layers?1:0
+var ns6=document.getElementById&&!document.all?1:0 
+var ie=document.all?1:0
+var i_img=0
+var posleft
+var postop
+var shownext=0
+var standstill=standstill*1000
+
+function showimages(e) {
+
+	if (i_img<=max_img && isfinished==false) {
+		if (shownext==0) {
+			if (ie) {
+				posleft=document.body.scrollLeft+window.event.x;
+				postop=document.body.scrollTop+window.event.y;
+				thisobj=eval("document.all.d"+i_img+".style")
+				thisobj.visibility="visible"
+				thisobj.posLeft=posleft
+				thisobj.posTop=postop
+			}
+			if (ns6) {
+				posleft=e.pageX
+				postop=e.pageY
+				var thisid="d"+i_img
+				thisobj=document.getElementById(thisid).style
+				thisobj.visibility="visible"
+				thisobj.left=posleft
+				thisobj.top=postop
+			}
+			if (ns4) {
+				posleft=e.pageX
+				postop=e.pageY
+				thisobj=eval("document.d"+i_img)
+				thisobj.visibility="visible"
+				thisobj.left=posleft
+				thisobj.top=postop
+			}
+			i_img++
+
+			shownext++
+		}
+		else {
+			shownext++
+			if (shownext>speed) {shownext=0}
+		}
+	}
+	else if (isfinished==false) {
+		isfinished=true
+		i_img=0
+		var ti=setTimeout("clearimages()",standstill)
+	}
+}
+
+function clearimages() {
+	if(i_img<=max_img) {	
+		if (ie) {
+			thisobj=eval("document.all.d"+i_img+".style")
+			thisobj.visibility="hidden"
+		}
+		if (ns6) {
+			var thisid="d"+i_img
+			thisobj=document.getElementById(thisid).style
+			thisobj.visibility="hidden"
+		}
+		if (ns4) {
+			thisobj=eval("document.d"+i_img)
+			thisobj.visibility="hidden"
+		}
+		i_img++
+		var timer=setTimeout("clearimages()",20)
+	}
+	else {
+		clearTimeout(timer)
+	}
+}
+
+function pageisloaded() {
+	if (ns4) {document.captureEvents(Event.MOUSEMOVE);}
+	document.onmousemove=showimages
+}
+
+if (ie || ns4 || ns6) {
+	window.onload=pageisloaded
+}
+
+for (i=0;i<=max_img;i++) {	
+	var randimg=Math.floor(range*Math.random())
+	if (ie || ns6) {
+		document.write("<DIV id='d"+i+"' style='position:absolute;left:0;top:0;visibility:hidden'><img src='"+imgurl[randimg]+"'></div>");
+	}
+	if (ns4) {
+		document.write("<layer name='d"+i+"' left=0 top=0 visibility=hide><img src='"+imgurl[randimg]+"'></layer>");
+	}
+}
+
+document.close()	
+</script>
+
+<div align="center">
+<h2>Sports</h2> My favorite sports to participate in are hockey, <a href="../boarding/index.html">boarding</a>, paintball, batting, and racing various things (like go-karts).<br>
+<br>
+<a href="http://www.detroitredwings.com/" border="0"><img alt="" src="det_red_wings.gif" style="border: 0px solid;"></a>
+<br>
+<div align="left">In April (2002), my nephew Ryan and I started going skating at the Peaks arena here in Provo. Ryan found out that there was a 'drop in' hockey night for beginners, intermediate, and advanced players. He tried out the beginner night, and was hooked. The next week I tried it and was hooked.
+<br><br>
+I have since bought: 
+
+<ol>
+<li><a href="http://www.bauer.com/">Bauer</a> Impact 500 skates, </li>
+<li>2 <a href="http://www.koho.com/">Koho</a> sticks (and a few others), </li>
+<li><a href="http://www.jofa.com/">Jofa</a> shin pads, </li>
+<li>a <a href="http://www.bauer.com/">Bauer 4000L helmet</a>,</li>
+<li><a href="http://www.eastonhockey.com/">Easton</a> 13.5" Ultra Lite Pro gloves, </li>
+<li>a <a href="http://www.nikehockey.com/">Nike</a> bag, </li>
+<li><a href="http://en.ccmsports.com/">CCM</a> <a href="http://en.ccmsports.com/catalog/view_prod.php?d=4&amp;p=84&amp;cat1=3&amp;cat2=14&amp;cat3=53&amp;s=7">652 Tacks</a> hockey pants.</li>
+<li>shoulder pads,</li>
+<li>hockey socks,</li>
+<li>a white jersey and a Steve Yzerman jersey.</li>
+</ol>
+I still need to get a second jersey (blue or black).
+<br>
+<br>
+Now, go check out the <a href="http://www.detroitredwings.com/">Detroit Red Wings official page</a>. You may want to also read up on their rival <a href="http://www.coloradoavalanche.com/">Colorado Avalanche</a>. Then get some unbiased news at <a href="http://www.nhl.com/">NHL.com</a>.<br>
+<br>
+To find great deals on hockey gear, goto 'Hockey 1' on Center street in Orem. It's by Albertsons and Taco Bell. To find gear online, goto <a href="http://www.hockeyone.com/">Hockey One</a> (yes, it's different).<br>
+What I love about hockey is that the game can go from a great cooperative effort, to a one-on-one face-off. I am just getting to the point where the good guys are not as much of a threat. When I started, if one of them wanted the puck from me, they could take it at will. Now I am able to keep it at least some of the time. <br>2002-08-07: I'm getting better now at the finesse game. In the beginning, I would smack the puck as hard as I could, anytime I got near it. Then I started trying to make passes, and smart clears. Now I'm trying to make the tricky passes, with the right amount of force to get where I want, when I want. I still screw up all the time, but it's beginner night, so anyone that gets upset should take a hike.<br>
+<br>
+<br>
+<center><img src="pmi_gti_01.gif"></center>
+<br>
+I also really enjoy paintball, though I don't play very often. The trick with the colored dots following your cursor on this page is a tribute to spraying paint on the field.<br>
+My gear: a 2000<a href="http://www.pminetwork.com/">PMI Piranha STS</a>, with 48 oz. constant air on a remote coil. A homemade fan vents my <a href="http://www.jtusa.com/">JT</a> <a href="http://www.jtusa.com/flex7.asp">Flex-7 headgear</a>.<br>
+When playing, the sport has just just enough fear to heighten your senses. This fear can come from several different factors. One is the fear of getting shot. This might stem from failure (loss) or the sting that taking a hit can cause. Another reason for the fear is the unknown. Some of the fields of play cause you to encounter the enemy with little or no forewarning. But this is a great way to find out how you might react in a dangerous situation.<br>
+I've learned a lot. Kevin doesn't seem to learn some lessons. He still tries some dumb Rambo charges. When they work, he takes all credit and glory, but when they don't, he shrugs it off as though the game isn't fun unless you do crazy things from time to time. I'll give him props though. There have been a few moves that he has done that I didn't think that he'd pull off.  Just ask him about the 'Gauntlet'.<br>
+<br><br>
+If you get a chance, you should take a trip to Nascart in SLC. They have go-karts that are a step up from the kiddie karts that you get at the slick track, and a lot more fun.<br>
+My company had an informal afternoon there, and we all walked away with smiles. We also all had a difficult time driving home. The problem is that after a few minutes in the karts, you get used the incredible braking to weight ratio, and the great power to weight ratio that these karts have. It takes a couple of miles to reacquaint yourself to your car. When I left I was stopping too late, and disappointed with my <a href="../car/index.html">Mustang's</a> acceleration.<br>
+</div>
+</div>
+<br>
+<br>
+<br>
+</body>
+</html>

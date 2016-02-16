@@ -1,0 +1,124 @@
+/*This is a white background file for my website*/
+body
+{
+	background: white no-repeat center center fixed;
+	color: black;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	font-style: normal;
+	text-align: left;
+	text-decoration: none;
+	text-transform: none;
+}
+
+h1
+{
+	font-size: 24pt;
+	background-color: white;
+	color: #555555;
+	text-align: center;
+/*	border-style: dashed;*/
+}
+
+h2
+{
+	line-height: 1.05em;
+	background-color: white;
+	color: #000000;
+	text-align: center;
+}
+
+p
+{
+	font-size:11pt;
+/*	margin-left: 15px*/
+}
+
+.normal
+{
+	font-size:1.0em;
+	line-height: 1.2em;
+}
+
+.normalbold
+{
+	font-size:1.0em;
+	font-weight: bold;
+	line-height: 1.1em;
+}
+
+.cnormal
+{
+	font-size:1.0em;
+	text-align: center;
+	line-height: 1.0em;
+}
+
+.normalplus3bold
+{
+	font-size:2.5em;
+	font-weight: bold;
+	line-height: 1.0em;
+}
+
+.normalplus2
+{
+	font-size:1.5em;
+	font-weight: normal;
+	line-height: 0.7em;
+}
+
+.cnormalplus2
+{
+	font-size:1.5em;
+	font-weight: normal;
+	line-height: 0.01em;
+	text-align: center;
+}
+
+.slesser
+{
+	font-size:0.7em;
+}
+
+.cslesser
+{
+	font-size:0.7em;
+	text-align: center;
+}
+
+.mlesser
+{
+	font-size:0.85em;
+}
+
+.cmlesser
+{
+	font-size:0.85em;
+	text-align: center;
+	line-height: 1.3em;
+}
+
+a:link
+{
+	background-color: white;
+	color: #888888;
+}
+
+a:visited
+{
+	background-color: white;
+	color: #555555;
+}
+
+a:hover
+{
+	background-color: white;
+	color: #ff0000;
+}
+
+a:active
+{
+	background-color: white;
+	color: #ff0000;
+}
